@@ -1,36 +1,57 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <h1>
-        <a href="{{ site.baseurl }}">
+      <img src="/assets/photo.jpg">
+      <h2>
+        <a href="{{ site.baseurl }}" >
           {{ site.title }}
         </a>
-      </h1>
-      <p class="lead">{{ site.description }}</p>
+      </h2>
+      <p>{{ site.author.email }}</p>
     </div>
+
+
+      <div class="row">
+        <div class="col-md-4">
+          <ul class="list-inline social-buttons">
+
+            <li><a href="https://au.linkedin.com/in/giorgiopatrini"><i class="fa fa-linkedin"></i></a>
+            </li>
+
+            <li><a href="https://github.com/giorgiop"><i class="fa fa-github"></i></a>
+            </li>
+
+            <li><a href="https://scholar.google.com.au/citations?user=OilV7WMAAAAJ&hl=en"><img src="../assets/ghat_black.png"></i></a>
+            </li>
+
+          </ul>
+        </div>
+      </div>
+
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
+      {% if node.title != null %}
+      {% if node.layout == "page" %}
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+      {% endif %}
+      {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
+      <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
+      <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>
+      Built with
+      <a href="http://jekyllrb.com">Jekyll</a>,
+      <a href="https://github.com/inukshuk/jekyll-scholar">Jekyll-Scholar</a> and
+      <a href="https://github.com/poole/hyde">Hyde</a>.
+      &copy; {{ site.time | date: '%Y' }} . All rights reserved.
+    </p>
   </div>
 </div>

@@ -7,20 +7,34 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            giorgio patrini
+tagline:          'personal webpage'
+# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://giorgiopatrini.org
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Giorgio Patrini'
+  email:          'au.edu.anu@patrini.giorgio [::-1]'
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
+scholar:
+  style: apa
+  locale: en
 
-github:
-  repo:           https://github.com/poole/hyde
+  sort_by: none
+  order: ascending
+
+  source: _bibliography
+  bibliography: bibliography.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
