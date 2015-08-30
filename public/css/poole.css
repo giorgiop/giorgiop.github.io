@@ -434,3 +434,7 @@ a.pagination-item:hover {
 div {
   text-align: justify;
 }
+
+ul {
+  text-align: left;
+}
