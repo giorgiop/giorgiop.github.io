@@ -45,9 +45,9 @@ I am a PhD student in Machine Learning at the
 weak supervision, *i.e.* any setting in the continuum between supervised and
 unsupervised learning. In particular, I am interested in cases when supervision is given by information
 aggregated over subsets of examples; for instance, by statistics from census
-data. This setting has connection with social sciences, econometrics and privacy.
+data. This setting has connections with social sciences, econometrics and privacy.
 
-Prior to move to Australia, I received my M.Sc. and B.Sc. at Politecnico di Milano, Italy, with
+Prior to move to Australia, I received my B.Sc. and M.Sc. at Politecnico di Milano, Italy, with
 a research thesis on Nash Equilibrium computation in Game Theory working with
 [Nicola Gatti](http://home.deib.polimi.it/ngatti/Nicola_Gatti__Homepage.html).
 
