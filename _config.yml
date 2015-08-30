@@ -42,3 +42,6 @@ scholar:
   details_link:   Details
 
   query: "@*"
+
+kramdown:
+  input: GFM
