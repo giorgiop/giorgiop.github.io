@@ -19,9 +19,6 @@ author:
 
 paginate:         5
 
-# Other gems
-# gem: jekyll-scholar
-
 # jekyll-scholar config
 scholar:
   style: apa
