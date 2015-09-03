@@ -42,10 +42,10 @@ I am a PhD student in Machine Learning at the
 [NICTA](https://www.nicta.com.au), advised by
 [Richard Nock](https://scholar.google.com.au/citations?user=0J2s3YQAAAAJ&hl=en&oi=ao) and
 [Tiberio Caetano](http://www.tiberiocaetano.com). My research is about
-weak supervision, *i.e.* any setting in the continuum between supervised and
+weakly supervision, *i.e.* any setting in the continuum between supervised and
 unsupervised learning. In particular, I am interested in cases when supervision is given by information
 aggregated over subsets of examples; for instance, by statistics from census
-data. This setting has connections with social sciences, econometrics and privacy.
+data. The setting has connections with topics in social sciences and privacy.
 
 Prior to move to Australia, I received my B.Sc. and M.Sc. from Politecnico di Milano, Italy, with
 a research thesis on Nash Equilibrium computation in Game Theory working with
