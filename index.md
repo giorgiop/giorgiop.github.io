@@ -57,7 +57,7 @@ Italy.
 ### News
 - Aug 26 2015 - **Talk**: Learning from aggregates at TU Dortmund, Dortmund.
 - Aug 15 2015 - I am co-organizing with Tony Jebara, Richard Nock, Felix Yu and Dimitrios Kotzias a **NIPS'15
-  workshop** on Learning and privacy with incomplete data and weak supervision. Website and CPF will be out soon.
+  workshop** on [Learning and privacy with incomplete data and weak supervision](http://giorgiopatrini.org/nips15workshop/).
 - Aug 3 2015 - I have started my **internship at INRIA Parietal**, Paris, working on [scikit-learn](http://scikit-learn.org/stable/).
 - Jul 24 2015 - [Waynaut](http://www.waynaut.com/en) closes [a new funding round](https://www.crunchbase.com/organization/youmove-me), raising over EUR 1M in total.
 - Jul 7 2015 - **Talk**: [Rademacher observations, private data and boosting]

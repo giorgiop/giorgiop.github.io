@@ -45,3 +45,11 @@ scholar:
 
 kramdown:
   input: GFM
+
+analytics :
+  provider : google
+  google :
+      tracking_id : 'UA-55134574-1'
+
+site:
+  github_username: giorgiop

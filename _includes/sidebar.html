@@ -1,5 +1,6 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
+    <!-- <p class="katy"> Katy :) </p> -->
     <div class="sidebar-about">
       <img src="/assets/photo.jpg">
       <h2>
@@ -7,6 +8,12 @@
           {{ site.title }}
         </a>
       </h2>
+        <a href="https://github.com/{{ site.github_username }}" target="_blank">
+          <i class="fa fa-github"> </i>
+        </a>
+        <a href="https://linkedin.com/in/giorgiopatrini" target="_blank">
+          <i class="fa fa-linkedin"></i>
+        </a>
       <p>{{ site.author.email }}</p>
     </div>
 
@@ -21,14 +28,10 @@
       {% endif %}
       {% endif %}
       {% endfor %}
-
-      <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
-      <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
-      <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
     </nav>
 
     <p>
-      Last update {{ site.time | date: '%b %w %Y'}}. <br>
+      Last update {{ site.time | date: '%b %d %Y'}}. <br>
       Built with
       <a href="http://jekyllrb.com">Jekyll</a> and
       <a href="https://github.com/poole/hyde">Hyde</a>. <br>
