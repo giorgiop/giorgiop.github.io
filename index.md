@@ -51,13 +51,13 @@ Prior to move to Australia, I received my B.Sc. and M.Sc. from Politecnico di Mi
 a research thesis on Nash Equilibrium computation in Game Theory working with
 [Nicola Gatti](http://home.deib.polimi.it/ngatti/Nicola_Gatti__Homepage.html).
 
-I like startups. I co-founded and collaborate with [Waynaut](waynaut.html), based in Milan,
+I like startups. I co-founded and collaborate with [Waynaut](http://www.waynaut.com/en), based in Milan,
 Italy.
 
 ### News
 - Aug 26 2015 - **Talk**: Learning from aggregates at TU Dortmund, Dortmund.
 - Aug 15 2015 - I am co-organizing with Tony Jebara, Richard Nock, Felix Yu and Dimitrios Kotzias a **NIPS'15
-  workshop** on [Learning and privacy with incomplete data and weak supervision](http://giorgiopatrini.org/nips15workshop/).
+  workshop** on [Learning and privacy with incomplete data and weak supervision](http://www.giorgiopatrini.org/nips15workshop/).
 - Aug 3 2015 - I have started my **internship at INRIA Parietal**, Paris, working on [scikit-learn](http://scikit-learn.org/stable/).
 - Jul 24 2015 - [Waynaut](http://www.waynaut.com/en) closes [a new funding round](https://www.crunchbase.com/organization/youmove-me), raising over EUR 1M in total.
 - Jul 7 2015 - **Talk**: [Rademacher observations, private data and boosting]
