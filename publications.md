@@ -34,6 +34,10 @@ title: Publications
   Local search techniques for Nash equilibrium computation with bimatrix game <br>
   Politecnico di Milano 2012, M.Sc. thesis
 
+### Notes and Tech Reports
+- Giorgio Patrini <br>
+  [Tutorial on Laplacian Mean Map]({{site.baseurl}}assets/paper/2015_LMM.pdf)
+
 <br>
 
 ### Academic services
