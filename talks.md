@@ -2,7 +2,7 @@
 layout: page
 title: Talks
 ---
-
+- Sep 22 2015 - Learning from aggregates at INRIA Parietal Neurospin, Paris, France.
 - Aug 26 2015 - Learning from aggregates at TU Dortmund, Dortmund, Germany. [[slides]({{site.baseurl}}assets/slides/2015_TU_Dortmund.pdf)]
 - Jul 7 2015 - Rademacher observations, private data and boosting at ICML, Lille, France. [[slides]({{site.baseurl}}assets/slides/2015_ICML.pdf)]
 - Jun 24 2015 - Learning from aggregates at TU Delft, Delft, the Netherlands.
