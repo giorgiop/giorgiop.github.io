@@ -55,6 +55,7 @@ I like startups. I co-founded and collaborate with [Waynaut](http://www.waynaut.
 Italy.
 
 ### News
+- Sep 22 2015 - **Talk**: Learning from aggregates at INRIA Parietal Neurospin, Paris.
 - Aug 26 2015 - **Talk**: Learning from aggregates at TU Dortmund, Dortmund.
 - Aug 15 2015 - I am co-organizing with Tony Jebara, Richard Nock, Felix Yu and Dimitrios Kotzias a **NIPS'15
   workshop** on [Learning and privacy with incomplete data and weak supervision](http://www.giorgiopatrini.org/nips15workshop/).
