@@ -17,7 +17,7 @@ title: Publications
   **NIPS 2014** (spotlight, acceptance rate 3.7%)
 
 - Nicola Gatti, Giorgio Patrini, Marco Rocco and Tuomas Sandholm <br>
-  [Combining local search techniques and path following for bimatri games]({{site.baseurl}}assets/paper/2012_UAI.pdf) <br>
+  [Combining local search techniques and path following for bimatrix games]({{site.baseurl}}assets/paper/2012_UAI.pdf) <br>
   **UAI 2012** (acceptance rate 31%)
 
 - Sofia Ceppi, Nicola Gatti, Giorgio Patrini and Marco Rocco <br>
