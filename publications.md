@@ -47,5 +47,5 @@ Reviewer for
 
 Workshop co-organizer
 
-- Learning and privacy with incomplete data and weak supervision <br>
+- [Learning and privacy with incomplete data and weak supervision](http://www.giorgiopatrini.org/nips15workshop/). <br>
   **NIPS 2015** (contact organizer)
