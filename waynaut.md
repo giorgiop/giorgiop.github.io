@@ -19,4 +19,4 @@ EUR 1m of Italian VCs funds, it company is growing rapidly while closing deals w
 international partners. Since its foundation, I have been collaborating as a scientific advisor.
 
 Check out [Waynaut](http://www.waynaut.com/en).
-Read about it on [Forbes](http://www.forbes.com/fdc/welcome_mjx.shtml).
+Read about it on [Forbes](http://www.forbes.com/sites/alisoncoleman/2015/01/11/how-an-entrepreneurs-college-commute-inspired-an-italian-one-click-travel-start-up/).
