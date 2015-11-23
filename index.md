@@ -55,6 +55,7 @@ I like startups. I co-founded and collaborate with [Waynaut](http://www.waynaut.
 Italy.
 
 ### News
+- Nov 19 2015 - **Talk**: Loss Factorization and Learning from Label Proportions at Columbia University, New York.
 - Nov 11 2015 - **Talk**: Loss Factorization and Learning from Label Proportions at Telecom Paris-Tech, Paris.
 - Sep 22 2015 - **Talk**: Learning from aggregates at INRIA Parietal Neurospin, Paris.
 - Aug 26 2015 - **Talk**: Learning from aggregates at TU Dortmund, Dortmund.
