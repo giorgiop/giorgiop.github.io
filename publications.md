@@ -34,7 +34,12 @@ title: Publications
   Local search techniques for Nash equilibrium computation with bimatrix game <br>
   Politecnico di Milano 2012, M.Sc. thesis
 
-### Notes and Tech Reports
+
+### Workshops, tech reports and notes
+- Giorgio Patrini, Frank Nielsen and Richard Nock <br>
+  ￼[Bridging weak supervision and privacy aware learning via sufficient statistics]({{site.baseurl}}assets/paper/2015_NIPS.pdf) <br>
+  **NIPS 2015, workshop on Learning and privacy with incomplete data and weak supervision**
+
 - Giorgio Patrini <br>
   [Tutorial on Laplacian Mean Map]({{site.baseurl}}assets/paper/2015_LMM.pdf)
 
