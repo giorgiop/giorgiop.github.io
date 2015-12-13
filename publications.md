@@ -7,7 +7,7 @@ title: Publications
 - Richard Nock, Patrini Giorgio and Arik Friedman <br>
   [Rademacher Observations, Private Data, and Boosting]
   ({{site.url}}/assets/paper/2015_ICML.pdf)
-  [[arXiv version](http://arxiv.org/pdf/1502.02322v2.pdf)] <br>
+  [[arXiv long version](http://arxiv.org/pdf/1502.02322v2.pdf)] [[video](http://videolectures.net/icml2015_patrini_rademacher_observations/)] <br>
   **ICML 2014** (acceptance rate 26%)
 
 - Giorgio Patrini, Richard Nock, Paul Rivera and Tiberio Caetano <br>
@@ -38,14 +38,14 @@ title: Publications
 ### Workshops, tech reports and notes
 - Giorgio Patrini, Frank Nielsen and Richard Nock <br>
   ￼[Bridging weak supervision and privacy aware learning via sufficient statistics]({{site.baseurl}}assets/paper/2015_NIPS.pdf) <br>
-  **NIPS 2015, workshop on Learning and privacy with incomplete data and weak supervision**
+  **NIPS 2015 Workshop on Learning and privacy with incomplete data and weak supervision**
 
 - Giorgio Patrini <br>
   [Tutorial on Laplacian Mean Map]({{site.baseurl}}assets/paper/2015_LMM.pdf)
 
 <br>
 
-### Academic services
+### Academic service
 Reviewer for
 
 - NIPS 2015
@@ -53,4 +53,4 @@ Reviewer for
 Workshop co-organizer
 
 - [Learning and privacy with incomplete data and weak supervision](http://www.giorgiopatrini.org/nips15workshop/). <br>
-  **NIPS 2015** (contact organizer)
+  **NIPS 2015** (primary organizer)
