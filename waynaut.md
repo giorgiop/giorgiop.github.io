@@ -18,5 +18,5 @@ Waynaut is an online travel startup born in 2013 in Milan, Italy. Fueled with
 EUR 1M of Italian VC funds, the company is growing rapidly while closing deals with
 international partners. Since its foundation, I have been collaborating as a scientific advisor.
 
-Check out [Waynaut](http://www.waynaut.com/en).
+Check out [Waynaut](http://www.waynaut.com).
 Read about it on [Forbes](http://www.forbes.com/sites/alisoncoleman/2015/01/11/how-an-entrepreneurs-college-commute-inspired-an-italian-one-click-travel-start-up/).
