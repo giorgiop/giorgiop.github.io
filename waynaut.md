@@ -15,7 +15,7 @@ data from every kind of format. Every website or app can use our responsive
 widget or API to show their users the best way to get where they need.
 
 Waynaut is an online travel startup born in 2013 in Milan, Italy. Fueled with
-EUR 1m of Italian VCs funds, it company is growing rapidly while closing deals with
+EUR 1M of Italian VC funds, the company is growing rapidly while closing deals with
 international partners. Since its foundation, I have been collaborating as a scientific advisor.
 
 Check out [Waynaut](http://www.waynaut.com/en).
