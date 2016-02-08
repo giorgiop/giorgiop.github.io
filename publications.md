@@ -66,7 +66,7 @@ Workshop co-organizer
 
 *<small>
 <a name='footnote'></a> Somehow Google Scholar is blind to citations to this paper. <br>
-I complied here a list manually. Please let me know if you know any more. <br>
+Here a list manually compiled. Please let me know if you know any more. <br>
 - [From Group to Individual Labels using Deep Features](http://www.datalab.uci.edu/papers/kdd2015_dimitris.pdf), KDD 2015 <br>
 - [Who Supported Obama in 2012? Ecological Inference through Distribution Regression](http://sethrf.com/files/ecological.pdf), KDD 2015 <br>
 - [Distributed Traffic Flow Prediction with Label Proportions](http://ceur-ws.org/Vol-1392/paper-05.pdf), MUD2 2015 <br>
