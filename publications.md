@@ -62,7 +62,7 @@ Workshop co-organizer
   **NIPS 2015** (primary organizer)
 
 <br><br><br>
-***
+<hr />
 
 *<small>
 <a name='footnote'></a> Somehow Google Scholar is blind to citations to this paper. <br>
