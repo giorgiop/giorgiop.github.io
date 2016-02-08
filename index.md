@@ -47,7 +47,7 @@ unsupervised learning. In particular, I am interested in cases when supervision 
 aggregated over subsets of examples; for instance, by statistics from census
 data. The setting has connections with topics in social sciences and privacy.
 
-Prior to move to Australia, I received my B.Sc. and M.Sc. from Politecnico di Milano, Italy, with
+Prior to moving to Australia, I received my B.Sc. and M.Sc. from Politecnico di Milano, Italy, with
 a research thesis on Nash Equilibrium computation in Game Theory working with
 [Nicola Gatti](http://home.deib.polimi.it/ngatti/Nicola_Gatti__Homepage.html).
 
@@ -55,9 +55,10 @@ I like startups. I co-founded and collaborate with [Waynaut](http://www.waynaut.
 Italy.
 
 ### News
+- Feb 8 2016 - **Pre-print**: Loss factorization, weakly supervised learning and label noise robustness.
 - Nov 19 2015 - **Talk**: Loss Factorization and Learning from Label Proportions at Columbia University, New York.
 - Nov 11 2015 - **Talk**: Loss Factorization and Learning from Label Proportions at Telecom Paris-Tech, Paris.
-- Sep 22 2015 - **Talk**: Learning from aggregates at INRIA Parietal Neurospin, Paris.
+- Sep 22 2015 - **Talk**: Learning from aggregates at INRIA Parietal at Neurospin, Paris.
 - Aug 26 2015 - **Talk**: Learning from aggregates at TU Dortmund, Dortmund.
 - Aug 15 2015 - I am co-organizing with Tony Jebara, Richard Nock, Felix Yu and Dimitrios Kotzias a **NIPS'15
   workshop** on [Learning and privacy with incomplete data and weak supervision](http://www.giorgiopatrini.org/nips15workshop/).

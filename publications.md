@@ -3,17 +3,22 @@ layout: page
 title: Publications
 ---
 
+### Pre-prints
+- Patrini Giorgio, Frank Nielsen, Richard Nock and Marcello Carioni <br>
+  Loss factorization, weakly supervised learning and label noise robustness
+  [[arXiv](.)] <br>
+
 ### Conferences
 - Richard Nock, Patrini Giorgio and Arik Friedman <br>
-  [Rademacher Observations, Private Data, and Boosting]
-  ({{site.url}}/assets/paper/2015_ICML.pdf)
-  [[arXiv long version](http://arxiv.org/pdf/1502.02322v2.pdf)] [[video](http://videolectures.net/icml2015_patrini_rademacher_observations/)] <br>
+  [Rademacher Observations, Private Data, and Boosting]({{site.url}}/assets/paper/2015_ICML.pdf)
+  [[arXiv](http://arxiv.org/pdf/1502.02322v2.pdf)] [[video](http://videolectures.net/icml2015_patrini_rademacher_observations/)] <br>
   **ICML 2014** (acceptance rate 26%)
 
 - Giorgio Patrini, Richard Nock, Paul Rivera and Tiberio Caetano <br>
   [(Almost) No Label No Cry]({{site.baseurl}}assets/paper/2014_NIPS.pdf)
   [[supp]({{site.baseurl}}assets/paper/2014_NIPS_supp.pdf)]
-  [[code](https://github.com/giorgiop/almostnolabel)] <br>
+  [[code](https://github.com/giorgiop/almostnolabel)]
+  [<a href='#footnote'>&dagger;</a>] <br>
   **NIPS 2014** (spotlight, acceptance rate 3.7%)
 
 - Nicola Gatti, Giorgio Patrini, Marco Rocco and Tuomas Sandholm <br>
@@ -48,9 +53,23 @@ title: Publications
 ### Academic service
 Reviewer for
 
+- JMLR 2016
 - NIPS 2015
 
 Workshop co-organizer
 
 - [Learning and privacy with incomplete data and weak supervision](http://www.giorgiopatrini.org/nips15workshop/). <br>
   **NIPS 2015** (primary organizer)
+
+<br><br><br>
+***
+
+*<small>
+<a name='footnote'></a> Somehow Google Scholar is blind to citations to this paper. <br>
+I complied here a list manually. Please let me know if you know any more. <br>
+- [From Group to Individual Labels using Deep Features](http://www.datalab.uci.edu/papers/kdd2015_dimitris.pdf), KDD 2015 <br>
+- [Who Supported Obama in 2012? Ecological Inference through Distribution Regression](http://sethrf.com/files/ecological.pdf), KDD 2015 <br>
+- [Distributed Traffic Flow Prediction with Label Proportions](http://ceur-ws.org/Vol-1392/paper-05.pdf), MUD2 2015 <br>
+- [Machine learning in space and time](http://sethrf.com/files/thesis.pdf), PhD Thesis <br>
+- [Risk Minimization in the Presence of Label Noise](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai16lics.pdf), AAAI 2016
+</small>*

@@ -4,7 +4,7 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
 title:            giorgio patrini
@@ -21,6 +21,7 @@ paginate:         5
 
 gems:
   - jekyll/scholar
+  - jekyll-paginate
 
 # jekyll-scholar config
 scholar:
