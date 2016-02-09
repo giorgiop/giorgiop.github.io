@@ -55,7 +55,7 @@ I like startups. I co-founded and collaborate with [Waynaut](http://www.waynaut.
 Italy.
 
 ### News
-- Feb 8 2016 - **Pre-print**: Loss factorization, weakly supervised learning and label noise robustness.
+- Feb 8 2016 - **Pre-print**: [Loss factorization, weakly supervised learning and label noise robustness](http://arxiv.org/abs/1602.02450).
 - Jan 1 2016 - Waynaut is now online with a major Italian player for flight booking, [Volagratis.it](http://www.volagratis.com/promo/Waynaut/Waynaut.html)
 - Nov 19 2015 - **Talk**: Loss Factorization and Learning from Label Proportions at Columbia University, New York.
 - Nov 11 2015 - **Talk**: Loss Factorization and Learning from Label Proportions at Telecom Paris-Tech, Paris.

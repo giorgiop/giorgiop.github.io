@@ -6,12 +6,12 @@ title: Publications
 ### Pre-prints
 - Patrini Giorgio, Frank Nielsen, Richard Nock and Marcello Carioni <br>
   Loss factorization, weakly supervised learning and label noise robustness
-  [[arXiv](.)] <br>
+  [[arXiv](http://arxiv.org/abs/1602.02450)] <br>
 
 ### Conferences
 - Richard Nock, Patrini Giorgio and Arik Friedman <br>
   [Rademacher Observations, Private Data, and Boosting]({{site.url}}/assets/paper/2015_ICML.pdf)
-  [[arXiv](http://arxiv.org/pdf/1502.02322v2.pdf)] [[video](http://videolectures.net/icml2015_patrini_rademacher_observations/)] <br>
+  [[arXiv](http://arxiv.org/abs/1502.02322)] [[video](http://videolectures.net/icml2015_patrini_rademacher_observations/)] <br>
   **ICML 2014** (acceptance rate 26%)
 
 - Giorgio Patrini, Richard Nock, Paul Rivera and Tiberio Caetano <br>
