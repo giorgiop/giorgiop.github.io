@@ -22,4 +22,4 @@ international partners. Since its foundation, I have been collaborating as a sci
 
 We are also online with one of the main Italian player for flight booking, [Volagratis.it](http://www.volagratis.com/promo/Waynaut/Waynaut.html).
 
-Read about us on [Forbes](http://www.forbes.com/sites/alisoncoleman/2015/01/11/how-an-entrepreneurs-college-commute-inspired-an-italian-one-click-travel-start-up/).
+Read about us on Forbes [2015](http://onforb.es/1y6Q1uY) and [2016](http://lnkd.in/d3UGMsx).
