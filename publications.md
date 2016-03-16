@@ -4,7 +4,11 @@ title: Publications
 ---
 
 ### Pre-prints
-- Patrini Giorgio, Frank Nielsen, Richard Nock and Marcello Carioni <br>
+- Giorgio Patrini, Richard Nock, Stephen Hardy and Tiberio Caetano <br>
+  Fast learning from distributed datasets without entity matching
+  [[arXiv](http://arxiv.org/abs/1603.04002)] <br>
+
+- Giorgio Patrini, Frank Nielsen, Richard Nock and Marcello Carioni <br>
   Loss factorization, weakly supervised learning and label noise robustness
   [[arXiv](http://arxiv.org/abs/1602.02450)] <br>
 
