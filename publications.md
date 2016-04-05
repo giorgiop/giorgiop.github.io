@@ -4,19 +4,21 @@ title: Publications
 ---
 
 ### Pre-prints
-- Giorgio Patrini, Richard Nock, Stephen Hardy and Tiberio Caetano <br>
-  Fast learning from distributed datasets without entity matching
-  [[arXiv](http://arxiv.org/abs/1603.04002)] <br>
 
 - Giorgio Patrini, Frank Nielsen, Richard Nock and Marcello Carioni <br>
   Loss factorization, weakly supervised learning and label noise robustness
   [[arXiv](http://arxiv.org/abs/1602.02450)] <br>
 
 ### Conferences
+- Giorgio Patrini, Richard Nock, Stephen Hardy and Tiberio Caetano <br>
+  Fast learning from distributed datasets without entity matching
+  [[arXiv](http://arxiv.org/abs/1603.04002)] <br>
+  **IJCAI 2016** (acceptance rate 25%)
+
 - Richard Nock, Patrini Giorgio and Arik Friedman <br>
   [Rademacher Observations, Private Data, and Boosting]({{site.url}}/assets/paper/2015_ICML.pdf)
   [[arXiv](http://arxiv.org/abs/1502.02322)] [[video](http://videolectures.net/icml2015_patrini_rademacher_observations/)] <br>
-  **ICML 2014** (acceptance rate 26%)
+  **ICML 2015** (acceptance rate 26%)
 
 - Giorgio Patrini, Richard Nock, Paul Rivera and Tiberio Caetano <br>
   [(Almost) No Label No Cry]({{site.baseurl}}assets/paper/2014_NIPS.pdf)

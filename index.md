@@ -51,21 +51,26 @@ Prior to moving to Australia, I received my B.Sc. and M.Sc. from Politecnico di 
 a research thesis on Nash Equilibrium computation in Game Theory working with
 [Nicola Gatti](http://home.deib.polimi.it/ngatti/Nicola_Gatti__Homepage.html).
 
-I like startups. I co-founded and collaborate with [Waynaut](http://www.waynaut.com/en), based in Milan,
+I like startups. I co-founded and collaborate with [Waynaut](http://www.waynaut.com), based in Milan,
 Italy.
 
 ### News
-- Mar 16 2016 - **Pre-print**: [Fast learning from distributed datasets without entity matching](http://arxiv.org/abs/1603.04002).
-- Feb 8 2016 - **Pre-print**: [Loss factorization, weakly supervised learning and label noise robustness](http://arxiv.org/abs/1602.02450).
-- Jan 1 2016 - Waynaut is now online with a major Italian player for flight booking, [Volagratis.it](http://www.volagratis.com/promo/Waynaut/Waynaut.html)
-- Nov 19 2015 - **Talk**: Loss Factorization and Learning from Label Proportions at Columbia University, New York.
-- Nov 11 2015 - **Talk**: Loss Factorization and Learning from Label Proportions at Telecom Paris-Tech, Paris.
-- Sep 22 2015 - **Talk**: Learning from aggregates at INRIA Parietal at Neurospin, Paris.
-- Aug 26 2015 - **Talk**: Learning from aggregates at TU Dortmund, Dortmund.
-- Aug 15 2015 - I am co-organizing with Tony Jebara, Richard Nock, Felix Yu and Dimitrios Kotzias a **NIPS'15
-  workshop** on [Learning and privacy with incomplete data and weak supervision](http://www.giorgiopatrini.org/nips15workshop/).
-- Aug 3 2015 - I have started my **internship at INRIA Parietal**, Paris, working on [scikit-learn](http://scikit-learn.org/stable/).
-- Jul 24 2015 - [Waynaut](http://www.waynaut.com/en) closes [a new funding round](https://www.crunchbase.com/organization/youmove-me), raising over EUR 1M in total.
-- Jul 7 2015 - **Talk**: [Rademacher observations, private data and boosting](http://jmlr.org/proceedings/papers/v37/nock15.pdf) at ICML.
-- Jun 24 2015 - **Talk**: Learning from aggregates at TU Delft, Delft.
-- Jun 8 2015 - **Talk**: Learning from aggregates at École Polytechnique, Paris.
+2016
+
+- Apr 4 - Paper accepted at **IJCAI'16**: Fast learning from distributed datasets without entity matching
+- Mar 16 - **Pre-print**: [Fast learning from distributed datasets without entity matching](http://arxiv.org/abs/1603.04002)
+- Feb 8 - **Pre-print**: [Loss factorization, weakly supervised learning and label noise robustness](http://arxiv.org/abs/1602.02450)
+- Jan 1 - Waynaut is now online with a major Italian player for flight booking, [Volagratis.it](http://www.volagratis.com/promo/Waynaut/Waynaut.html)
+
+2015
+
+- Nov 19 - **Talk**: Loss Factorization and Learning from Label Proportions at Columbia University, New York
+- Nov 11 - **Talk**: Loss Factorization and Learning from Label Proportions at Telecom Paris-Tech, Paris
+- Sep 22 - **Talk**: Learning from aggregates at INRIA Parietal at Neurospin, Paris
+- Aug 26 - **Talk**: Learning from aggregates at TU Dortmund, Dortmund
+- Aug 15 - I am co-organizing with Tony Jebara, Richard Nock, Felix Yu and Dimitrios Kotzias a **NIPS'15 workshop** on [Learning and privacy with incomplete data and weak supervision](http://www.giorgiopatrini.org/nips15workshop/)
+- Aug 3 - I have started my **internship at INRIA Parietal**, Paris, working on [scikit-learn](http://scikit-learn.org/stable/)
+- Jul 24 - [Waynaut](http://www.waynaut.com/en) closes [a new funding round](https://www.crunchbase.com/organization/youmove-me), raising over EUR 1M
+- Jul 7 - **Talk**: [Rademacher observations, private data and boosting](http://jmlr.org/proceedings/papers/v37/nock15.pdf) at ICML
+- Jun 24 - **Talk**: Learning from aggregates at TU Delft, Delft
+- Jun 8 - **Talk**: Learning from aggregates at École Polytechnique, Paris
