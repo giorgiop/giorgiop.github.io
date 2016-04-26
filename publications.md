@@ -3,13 +3,13 @@ layout: page
 title: Publications
 ---
 
-### Pre-prints
+### Conferences
 
 - Giorgio Patrini, Frank Nielsen, Richard Nock and Marcello Carioni <br>
   Loss factorization, weakly supervised learning and label noise robustness
   [[arXiv](http://arxiv.org/abs/1602.02450)] <br>
+  **ICML 2016** (acceptance rate 25%)
 
-### Conferences
 - Giorgio Patrini, Richard Nock, Stephen Hardy and Tiberio Caetano <br>
   Fast learning from distributed datasets without entity matching
   [[arXiv](http://arxiv.org/abs/1603.04002)] <br>
@@ -49,7 +49,7 @@ title: Publications
 ### Workshops, tech reports and notes
 - Giorgio Patrini, Frank Nielsen and Richard Nock <br>
   ￼[Bridging weak supervision and privacy aware learning via sufficient statistics]({{site.baseurl}}assets/paper/2015_NIPS.pdf) <br>
-  **NIPS 2015 Workshop on Learning and privacy with incomplete data and weak supervision**
+  **NIPS 2015** workshop on **Learning and privacy with incomplete data and weak supervision**
 
 - Giorgio Patrini <br>
   [Tutorial on Laplacian Mean Map]({{site.baseurl}}assets/paper/2015_LMM.pdf)
