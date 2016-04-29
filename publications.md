@@ -72,10 +72,11 @@ Workshop co-organizer
 
 *<small>
 <a name='footnote'></a> Somehow Google Scholar is blind to citations to this paper. <br>
-Here a list manually compiled. Please let me know if you know any more. <br>
+Here a manually compiled list. Please let me know if you are aware of any others. <br>
 - [From Group to Individual Labels using Deep Features](http://www.datalab.uci.edu/papers/kdd2015_dimitris.pdf), KDD 2015 <br>
 - [Who Supported Obama in 2012? Ecological Inference through Distribution Regression](http://sethrf.com/files/ecological.pdf), KDD 2015 <br>
 - [Distributed Traffic Flow Prediction with Label Proportions](http://ceur-ws.org/Vol-1392/paper-05.pdf), MUD2 2015 <br>
 - [Machine learning in space and time](http://sethrf.com/files/thesis.pdf), PhD Thesis <br>
+- [Inferring latent attributes of Twitter users with label regularization](http://www2.southeastern.edu/Academics/Faculty/aculotta/), NAACL/HLT 2015 <br>
 - [Risk Minimization in the Presence of Label Noise](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai16lics.pdf), AAAI 2016
 </small>*
