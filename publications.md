@@ -6,38 +6,39 @@ title: Publications
 ### Conferences
 
 - Giorgio Patrini, Frank Nielsen, Richard Nock and Marcello Carioni <br>
-  Loss factorization, weakly supervised learning and label noise robustness
+  [Loss factorization, weakly supervised learning and label noise robustness]({{site.baseurl}}assets/paper/2016_ICML.pdf)
+  [[supp]({{site.baseurl}}assets/paper/2016_ICML_supp.pdf)]
   [[arXiv](http://arxiv.org/abs/1602.02450)] <br>
-  **ICML 2016** (acceptance rate 25%)
+  **ICML 2016**
 
 - Giorgio Patrini, Richard Nock, Stephen Hardy and Tiberio Caetano <br>
-  Fast learning from distributed datasets without entity matching
+  [Fast learning from distributed datasets without entity matching]({{site.baseurl}}assets/paper/2016_IJCAI.pdf)
   [[arXiv](http://arxiv.org/abs/1603.04002)] <br>
-  **IJCAI 2016** (acceptance rate 25%)
+  **IJCAI 2016**
 
 - Richard Nock, Patrini Giorgio and Arik Friedman <br>
   [Rademacher Observations, Private Data, and Boosting]({{site.url}}/assets/paper/2015_ICML.pdf)
   [[arXiv](http://arxiv.org/abs/1502.02322)] [[video](http://videolectures.net/icml2015_patrini_rademacher_observations/)] <br>
-  **ICML 2015** (acceptance rate 26%)
+  **ICML 2015**
 
 - Giorgio Patrini, Richard Nock, Paul Rivera and Tiberio Caetano <br>
   [(Almost) No Label No Cry]({{site.baseurl}}assets/paper/2014_NIPS.pdf)
   [[supp]({{site.baseurl}}assets/paper/2014_NIPS_supp.pdf)]
   [[code](https://github.com/giorgiop/almostnolabel)]
   [<a href='#footnote'>&dagger;</a>] <br>
-  **NIPS 2014** (spotlight, acceptance rate 3.7%)
+  **NIPS 2014** (spotlight)
 
 - Nicola Gatti, Giorgio Patrini, Marco Rocco and Tuomas Sandholm <br>
   [Combining local search techniques and path following for bimatrix games]({{site.baseurl}}assets/paper/2012_UAI.pdf) <br>
-  **UAI 2012** (acceptance rate 31%)
+  **UAI 2012**
 
 - Sofia Ceppi, Nicola Gatti, Giorgio Patrini and Marco Rocco <br>
   [Local search methods for finding a Nash equilibrium in two-player games]({{site.baseurl}}assets/paper/2010_IAT.pdf) <br>
-  **IAT 2010** (acceptance rate 18%)
+  **IAT 2010**
 
 - Sofia Ceppi, Nicola Gatti, Giorgio Patrini and Marco Rocco <br>
   [Local search techniques for computing equilibria in two-player general-sum strategic-form games]({{site.baseurl}}assets/paper/2010_AAMAS.pdf) <br>
-  **AAMAS 2010** (extended abstract, acceptance rate 43%)
+  **AAMAS 2010** (extended abstract)
 
 
 ### Thesis
@@ -60,7 +61,7 @@ title: Publications
 Reviewer for
 
 - JMLR 2016
-- NIPS 2015
+- NIPS 2015, 2016
 
 Workshop co-organizer
 
