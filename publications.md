@@ -3,7 +3,12 @@ layout: page
 title: Publications
 ---
 
-### Conferences
+### Pre-print
+- Richard Nock, Giorgio Patrini, Finnian Lattimore, Tiberio Caetano
+  The Crossover Process: Learnability meets Protection from Inference Attacks
+  [[arXiv](https://arxiv.org/abs/1606.04160)]
+
+### Conference
 
 - Giorgio Patrini, Frank Nielsen, Richard Nock and Marcello Carioni <br>
   [Loss factorization, weakly supervised learning and label noise robustness]({{site.baseurl}}assets/paper/2016_ICML.pdf)
