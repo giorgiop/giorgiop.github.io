@@ -4,6 +4,7 @@ title: Talks
 ---
 2016
 
+- Aug 4 - Weakly supervised learning via statistical sufficiency at ANU/Data61, Canberra.
 - Jun 20 - Loss factorization, weakly supervised learning and label noise robustness at ICML, New York.
   [[slides]({{site.baseurl}}assets/slides/2016_ICML.pdf)]
 

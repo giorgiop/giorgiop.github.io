@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### Pre-print
-- Richard Nock, Giorgio Patrini, Finnian Lattimore, Tiberio Caetano
+- Richard Nock, Giorgio Patrini, Finnian Lattimore, Tiberio Caetano <br>
   The Crossover Process: Learnability meets Protection from Inference Attacks
   [[arXiv](https://arxiv.org/abs/1606.04160)]
 
