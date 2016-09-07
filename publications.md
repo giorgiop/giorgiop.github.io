@@ -13,7 +13,8 @@ title: Publications
 - Giorgio Patrini, Frank Nielsen, Richard Nock and Marcello Carioni <br>
   [Loss factorization, weakly supervised learning and label noise robustness]({{site.baseurl}}assets/paper/2016_ICML.pdf)
   [[supp]({{site.baseurl}}assets/paper/2016_ICML_supp.pdf)]
-  [[arXiv](http://arxiv.org/abs/1602.02450)] <br>
+  [[arXiv](http://arxiv.org/abs/1602.02450)]
+  [[video](http://techtalks.tv/talks/loss-factorization-weakly-supervised-learning-and-label-noise-robustness/62441/)]<br>
   **ICML 2016**
 
 - Giorgio Patrini, Richard Nock, Stephen Hardy and Tiberio Caetano <br>
@@ -67,6 +68,7 @@ Reviewer for
 
 - JMLR 2016
 - NIPS 2015, 2016
+- S+SSPR 2016
 
 Workshop co-organizer
 
@@ -78,7 +80,7 @@ Workshop co-organizer
 
 *<small>
 <a name='footnote'></a> Somehow Google Scholar is blind to citations to this paper. <br>
-Here a manually compiled list. Please let me know if you are aware of others. <br>
+Here a manually compiled list. Please let me know if you are aware of any others. <br>
 - [From Group to Individual Labels using Deep Features](http://www.datalab.uci.edu/papers/kdd2015_dimitris.pdf), KDD 2015 <br>
 - [Who Supported Obama in 2012? Ecological Inference through Distribution Regression](http://sethrf.com/files/ecological.pdf), KDD 2015 <br>
 - [Distributed Traffic Flow Prediction with Label Proportions](http://ceur-ws.org/Vol-1392/paper-05.pdf), MUD2 2015 <br>
