@@ -4,6 +4,11 @@ title: Publications
 ---
 
 ### Pre-print
+
+- Giorgio Patrini, Alessandro Rozza, Aditya Menon, Richard Nock, Lizhen Qu <br>
+  Making Neural Networks Robust to Label Noise: a Loss Correction Approach
+  [[arXiv](http://arxiv.org/abs/1609.03683)]
+
 - Richard Nock, Giorgio Patrini, Finnian Lattimore, Tiberio Caetano <br>
   The Crossover Process: Learnability meets Protection from Inference Attacks
   [[arXiv](https://arxiv.org/abs/1606.04160)]
@@ -32,7 +37,7 @@ title: Publications
   [[supp]({{site.baseurl}}assets/paper/2014_NIPS_supp.pdf)]
   [[code](https://github.com/giorgiop/almostnolabel)]
   [<a href='#footnote'>&dagger;</a>] <br>
-  **NIPS 2014** (spotlight)
+  **NIPS 2014** (spotlight, acceptance rate 3.7%)
 
 - Nicola Gatti, Giorgio Patrini, Marco Rocco and Tuomas Sandholm <br>
   [Combining local search techniques and path following for bimatrix games]({{site.baseurl}}assets/paper/2012_UAI.pdf) <br>

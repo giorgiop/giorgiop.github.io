@@ -23,9 +23,9 @@ I like startups. I co-founded [Waynaut](http://www.waynaut.com), among the few c
 ### News
 2016
 
-- Aug - **Talk**: Weakly supervised learning via statistical sufficiency at ANU 
+- Sep - **Pre-print**: [Making Neural Networks Robust to Label Noise: a Loss Correction Approach](http://arxiv.org/pdf/1609.03683v1.pdf)
+- Aug - **Talk**: Weakly supervised learning via statistical sufficiency at ANU
 - Jun - **Talk**: [Loss factorization, weakly supervised learning and label noise robustness]({{site.baseurl}}assets/paper/2016_ICML.pdf) at ICML'16
 - Jun - Pre-print: [The Crossover Process: Learnability meets Protection from Inference Attacks](https://arxiv.org/abs/1606.04160)
 - Apr - Paper at **ICML'16**: Loss factorization, weakly supervised learning and label noise robustness
 - Apr - Paper at **IJCAI'16**: Fast learning from distributed datasets without entity matching
-- Jan - Waynaut is now online with a major Italian player for flight booking, [Volagratis.it](http://www.volagratis.com/promo/Waynaut/Waynaut.html)
