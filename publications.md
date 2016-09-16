@@ -6,38 +6,38 @@ title: Publications
 ### Pre-print
 
 - Boris Muzellec, Richard Nock, Giorgio Patrini, Frank Nielsen <br>
-  Tsallis Regularized Optimal Transport and Ecological Inference
+  Tsallis Regularized Optimal Transport and Ecological Inference <br>
   [[arXiv](http://arxiv.org/pdf/1609.04495v1.pdf)]
 
 - Giorgio Patrini, Alessandro Rozza, Aditya Menon, Richard Nock, Lizhen Qu <br>
-  Making Neural Networks Robust to Label Noise: a Loss Correction Approach
+  Making Neural Networks Robust to Label Noise: a Loss Correction Approach <br>
   [[arXiv](http://arxiv.org/abs/1609.03683)]
 
 - Richard Nock, Giorgio Patrini, Finnian Lattimore, Tiberio Caetano <br>
-  The Crossover Process: Learnability meets Protection from Inference Attacks
+  The Crossover Process: Learnability meets Protection from Inference Attacks <br>
   [[arXiv](https://arxiv.org/abs/1606.04160)]
 
 ### Conference
 
 - Giorgio Patrini, Frank Nielsen, Richard Nock and Marcello Carioni <br>
-  [Loss factorization, weakly supervised learning and label noise robustness]({{site.baseurl}}assets/paper/2016_ICML.pdf)
+  [Loss factorization, weakly supervised learning and label noise robustness]({{site.baseurl}}assets/paper/2016_ICML.pdf) <br>
   [[supp]({{site.baseurl}}assets/paper/2016_ICML_supp.pdf)]
   [[arXiv](http://arxiv.org/abs/1602.02450)]
   [[video](http://techtalks.tv/talks/loss-factorization-weakly-supervised-learning-and-label-noise-robustness/62441/)]<br>
   **ICML 2016**
 
 - Giorgio Patrini, Richard Nock, Stephen Hardy and Tiberio Caetano <br>
-  [Fast learning from distributed datasets without entity matching]({{site.baseurl}}assets/paper/2016_IJCAI.pdf)
+  [Fast learning from distributed datasets without entity matching]({{site.baseurl}}assets/paper/2016_IJCAI.pdf) <br>
   [[arXiv](http://arxiv.org/abs/1603.04002)] <br>
   **IJCAI 2016**
 
 - Richard Nock, Patrini Giorgio and Arik Friedman <br>
-  [Rademacher Observations, Private Data, and Boosting]({{site.url}}/assets/paper/2015_ICML.pdf)
+  [Rademacher Observations, Private Data, and Boosting]({{site.url}}/assets/paper/2015_ICML.pdf) <br>
   [[arXiv](http://arxiv.org/abs/1502.02322)] [[video](http://videolectures.net/icml2015_patrini_rademacher_observations/)] <br>
   **ICML 2015**
 
 - Giorgio Patrini, Richard Nock, Paul Rivera and Tiberio Caetano <br>
-  [(Almost) No Label No Cry]({{site.baseurl}}assets/paper/2014_NIPS.pdf)
+  [(Almost) No Label No Cry]({{site.baseurl}}assets/paper/2014_NIPS.pdf) <br>
   [[supp]({{site.baseurl}}assets/paper/2014_NIPS_supp.pdf)]
   [[code](https://github.com/giorgiop/almostnolabel)]
   [<a href='#footnote'>&dagger;</a>] <br>
@@ -96,5 +96,7 @@ Here a manually compiled list. Please let me know if you are aware of any others
 - [Machine Learning in Space and Time](http://sethrf.com/files/thesis.pdf), PhD Thesis <br>
 - [Inferring Latent Attributes of Twitter Users with Label Regularization](http://www2.southeastern.edu/Academics/Faculty/aculotta/), NAACL/HLT 2015 <br>
 - [Risk Minimization in the Presence of Label Noise](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai16lics.pdf), AAAI 2016 <br>
-- [Privacy-Preserving Class Ratio Estimation](http://www.kdd.org/kdd2016/papers/files/Paper_1172.pdf), KDD 2016
+- [Privacy-Preserving Class Ratio Estimation](http://www.kdd.org/kdd2016/papers/files/Paper_1172.pdf), KDD 2016 <br>
+- [Learning With Label Proportions via NPSVM](http://ieeexplore.ieee.org/document/7549044/), IEEE Transactions on Cybernetics, 2016 <br>
+- [A Proportion Learning Algorithms with Density Peaks](http://www.sciencedirect.com/science/article/pii/S1877050916312777) Procedia Computer Science, 2016 <br>
 </small>*
