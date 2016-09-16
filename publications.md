@@ -5,6 +5,10 @@ title: Publications
 
 ### Pre-print
 
+- Boris Muzellec, Richard Nock, Giorgio Patrini, Frank Nielsen <br>
+  Tsallis Regularized Optimal Transport and Ecological Inference
+  [[arXiv](http://arxiv.org/pdf/1609.04495v1.pdf)]
+
 - Giorgio Patrini, Alessandro Rozza, Aditya Menon, Richard Nock, Lizhen Qu <br>
   Making Neural Networks Robust to Label Noise: a Loss Correction Approach
   [[arXiv](http://arxiv.org/abs/1609.03683)]
