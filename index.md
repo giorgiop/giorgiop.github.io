@@ -7,7 +7,7 @@ title: Home
 I am a PhD student on Machine Learning at the
 [Australian National University](https://www.anu.edu.au) with
 [CSIRO Data61](http://www.data61.csiro.au)
-(formerly known as [NICTA](https://www.nicta.com.au)), advised by
+(erstwhile [NICTA](https://www.nicta.com.au)), advised by
 [Richard Nock](https://scholar.google.com.au/citations?user=0J2s3YQAAAAJ&hl=en&oi=ao) and
 [Tiberio Caetano](http://www.tiberiocaetano.com). My research is about
 weak supervision, i.e. any learning problem in the continuum between supervised and
@@ -23,6 +23,7 @@ I like startups. I co-founded [Waynaut](http://www.waynaut.com), among the few c
 ### News
 2016
 
+- Nov - Paper at **AAAI'17**: Tsallis Regularized Optimal Transport and Ecological Inference
 - Sep - Pre-print: [Tsallis Regularized Optimal Transport and Ecological Inference](http://arxiv.org/pdf/1609.04495v1.pdf)
 - Sep - Pre-print: [Making Neural Networks Robust to Label Noise: a Loss Correction Approach](http://arxiv.org/pdf/1609.03683v1.pdf)
 - Aug - Talk: Weakly supervised learning via statistical sufficiency at ANU

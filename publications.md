@@ -5,10 +5,6 @@ title: Publications
 
 ### Pre-print
 
-- Boris Muzellec, Richard Nock, Giorgio Patrini, Frank Nielsen <br>
-  Tsallis Regularized Optimal Transport and Ecological Inference <br>
-  [[arXiv](http://arxiv.org/pdf/1609.04495v1.pdf)]
-
 - Giorgio Patrini, Alessandro Rozza, Aditya Menon, Richard Nock, Lizhen Qu <br>
   Making Neural Networks Robust to Label Noise: a Loss Correction Approach <br>
   [[arXiv](http://arxiv.org/abs/1609.03683)]
@@ -18,6 +14,11 @@ title: Publications
   [[arXiv](https://arxiv.org/abs/1606.04160)]
 
 ### Conference
+
+- Boris Muzellec, Richard Nock, Giorgio Patrini, Frank Nielsen <br>
+  Tsallis Regularized Optimal Transport and Ecological Inference <br>
+  [[arXiv](http://arxiv.org/pdf/1609.04495v1.pdf)] <br>
+  **AAAI 2017**
 
 - Giorgio Patrini, Frank Nielsen, Richard Nock and Marcello Carioni <br>
   [Loss factorization, weakly supervised learning and label noise robustness]({{site.baseurl}}assets/paper/2016_ICML.pdf) <br>
@@ -78,6 +79,7 @@ Reviewer for
 - JMLR 2016
 - NIPS 2015, 2016
 - S+SSPR 2016
+- JMLC 2016
 
 Workshop co-organizer
 
@@ -97,6 +99,7 @@ Here a manually compiled list. Please let me know if you are aware of any others
 - [Inferring Latent Attributes of Twitter Users with Label Regularization](http://www2.southeastern.edu/Academics/Faculty/aculotta/), NAACL/HLT 2015 <br>
 - [Risk Minimization in the Presence of Label Noise](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai16lics.pdf), AAAI 2016 <br>
 - [Privacy-Preserving Class Ratio Estimation](http://www.kdd.org/kdd2016/papers/files/Paper_1172.pdf), KDD 2016 <br>
-- [Learning With Label Proportions via NPSVM](http://ieeexplore.ieee.org/document/7549044/), IEEE Transactions on Cybernetics, 2016 <br>
-- [A Proportion Learning Algorithms with Density Peaks](http://www.sciencedirect.com/science/article/pii/S1877050916312777) Procedia Computer Science, 2016 <br>
+- [Learning With Label Proportions via NPSVM](http://ieeexplore.ieee.org/document/7549044/), IEEE Transactions on Cybernetics 2016 <br>
+- [A Proportion Learning Algorithms with Density Peaks](http://www.sciencedirect.com/science/article/pii/S1877050916312777), Procedia Computer Science 2016 <br>
+- [Domain Adaptation for Learning from Label Proportions Using Self-Training](https://pdfs.semanticscholar.org/77a1/08f9b36ea0461457b5647a841112aeaab502.pdf), IJCAI 2016 <br>
 </small>*
