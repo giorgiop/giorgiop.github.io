@@ -102,4 +102,6 @@ Here a manually compiled list. Please let me know if you are aware of any others
 - [Learning With Label Proportions via NPSVM](http://ieeexplore.ieee.org/document/7549044/), IEEE Transactions on Cybernetics 2016 <br>
 - [A Proportion Learning Algorithms with Density Peaks](http://www.sciencedirect.com/science/article/pii/S1877050916312777), Procedia Computer Science 2016 <br>
 - [Domain Adaptation for Learning from Label Proportions Using Self-Training](https://pdfs.semanticscholar.org/77a1/08f9b36ea0461457b5647a841112aeaab502.pdf), IJCAI 2016 <br>
+- [The Internet of Things: Opportunities and Challenges for Distributed Data Analysis](http://www.kdd.org/exploration_files/18-1-Article2.pdf), ACM SIGKDD Explorations Newsletter 2016 <br>
+- [beta-risk: a New Surrogate Risk for Learning from Weakly Labeled Data](https://hal.archives-ouvertes.fr/hal-01359298/document), NIPS 2016 <br>
 </small>*
