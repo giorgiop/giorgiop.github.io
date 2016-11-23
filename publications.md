@@ -86,10 +86,9 @@ Workshop co-organizer
 - [Learning and privacy with incomplete data and weak supervision](http://www.giorgiopatrini.org/nips15workshop/). <br>
   **NIPS 2015** (primary organizer)
 
-<br><br><br>
-<hr />
 
-*<small>
+
+<!-- *<small>
 <a name='footnote'></a> Somehow Google Scholar is blind to citations to this paper. <br>
 Here a manually compiled list. Please let me know if you are aware of any others. <br>
 - [From Group to Individual Labels using Deep Features](http://www.datalab.uci.edu/papers/kdd2015_dimitris.pdf), KDD 2015 <br>
@@ -104,4 +103,4 @@ Here a manually compiled list. Please let me know if you are aware of any others
 - [Domain Adaptation for Learning from Label Proportions Using Self-Training](https://pdfs.semanticscholar.org/77a1/08f9b36ea0461457b5647a841112aeaab502.pdf), IJCAI 2016 <br>
 - [The Internet of Things: Opportunities and Challenges for Distributed Data Analysis](http://www.kdd.org/exploration_files/18-1-Article2.pdf), ACM SIGKDD Explorations Newsletter 2016 <br>
 - [beta-risk: a New Surrogate Risk for Learning from Weakly Labeled Data](https://hal.archives-ouvertes.fr/hal-01359298/document), NIPS 2016 <br>
-</small>*
+</small>* -->
