@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-### Pre-print
+### Pre-prints
 
 - Giorgio Patrini, Alessandro Rozza, Aditya Menon, Richard Nock, Lizhen Qu <br>
   Making Neural Networks Robust to Label Noise: a Loss Correction Approach <br>
@@ -13,7 +13,7 @@ title: Publications
   The Crossover Process: Learnability meets Protection from Inference Attacks <br>
   [[arXiv](https://arxiv.org/abs/1606.04160)]
 
-### Conference
+### Conferences
 
 - Boris Muzellec, Richard Nock, Giorgio Patrini, Frank Nielsen <br>
   Tsallis Regularized Optimal Transport and Ecological Inference <br>
@@ -41,6 +41,7 @@ title: Publications
   [(Almost) No Label No Cry]({{site.baseurl}}assets/paper/2014_NIPS.pdf) <br>
   [[supp]({{site.baseurl}}assets/paper/2014_NIPS_supp.pdf)]
   [[code](https://github.com/giorgiop/almostnolabel)]
+  [[other]({{site.baseurl}}assets/paper/2014_NIPS_inverted.pdf)] <br>
   <!-- [<a href='#footnote'>&dagger;</a>] <br> -->
   **NIPS 2014** (spotlight, acceptance rate 3.7%)
 
@@ -111,5 +112,5 @@ Here a manually compiled list. Please let me know if you are aware of any others
 - [Domain Adaptation for Learning from Label Proportions Using Self-Training](https://pdfs.semanticscholar.org/77a1/08f9b36ea0461457b5647a841112aeaab502.pdf), IJCAI 2016 <br>
 - [The Internet of Things: Opportunities and Challenges for Distributed Data Analysis](http://www.kdd.org/exploration_files/18-1-Article2.pdf), ACM SIGKDD Explorations Newsletter 2016 <br>
 - [beta-risk: a New Surrogate Risk for Learning from Weakly Labeled Data](https://hal.archives-ouvertes.fr/hal-01359298/document), NIPS 2016 <br>
-[Providing Information by Resource- Constrained Data Analysis](https://pdfs.semanticscholar.org/cf3d/07eb8e511aea593f663731fe8e652abba5a9.pdf?_ga=1.212760023.275034423.1461215215), Technical report for Collaborative Research Center SFB 876 2016 <br>
+- [Providing Information by Resource- Constrained Data Analysis](https://pdfs.semanticscholar.org/cf3d/07eb8e511aea593f663731fe8e652abba5a9.pdf?_ga=1.212760023.275034423.1461215215), Technical report for Collaborative Research Center SFB 876 2016 <br>
 </small>* -->
