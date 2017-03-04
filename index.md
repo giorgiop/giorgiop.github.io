@@ -11,7 +11,7 @@ I completed my PhD on machine learning at the
 [Richard Nock](http://users.cecs.anu.edu.au/~rnock/) and
 [Tiberio Caetano](http://www.tiberiocaetano.com). My thesis was about
 weak supervision, i.e. any learning problem in the continuum between supervised and
-unsupervised learning. In particular, I studied scenarios where supervision is given by high-level aggregated statistics or corrupted by noise; I also touched on learning theory, privacy, distributed learning and deep learning.
+unsupervised learning. In particular, I studied scenarios where supervision is given by high-level aggregated statistics or corrupted by noise; I also touched on learning theory, privacy, distributed data and deep learning.
 
 Prior to moving to Australia, I received my BSc and MSc from Politecnico di Milano with
 a research thesis on Nash equilibrium computation working with
@@ -23,14 +23,12 @@ I like startups. I co-founded [Waynaut](http://www.waynaut.com), among the few c
 ### News
 2017
 
-- Feb - Paper at **CVPR'17**: Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach
+- Feb - **CVPR'17** paper: Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach
 
 2016
 
 - Dec - Submitted my PhD thesis: Weakly supervised learning via statistical sufficiency
-- Nov - Paper at **AAAI'17**: [Tsallis Regularized Optimal Transport and Ecological Inference](http://arxiv.org/pdf/1609.04495v1.pdf)
+- Nov - **AAAI'17** paper: [Tsallis Regularized Optimal Transport and Ecological Inference](http://arxiv.org/pdf/1609.04495v1.pdf)
 - Aug - Talk: Weakly supervised learning via statistical sufficiency at ANU
 - Jun - Talk: [Loss factorization, weakly supervised learning and label noise robustness]({{site.baseurl}}assets/paper/2016_ICML.pdf) at ICML'16
 - Jun - Pre-print: [The Crossover Process: Learnability meets Protection from Inference Attacks](https://arxiv.org/abs/1606.04160)
-- Apr - Paper at **ICML'16**: Loss factorization, weakly supervised learning and label noise robustness
-- Apr - Paper at **IJCAI'16**: Fast learning from distributed datasets without entity matching
