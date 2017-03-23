@@ -6,7 +6,7 @@ title: Publications
 ### Pre-prints
 
 - Richard Nock, Giorgio Patrini, Finnian Lattimore, Tiberio Caetano <br>
-  The Crossover Process: Learnability meets Protection from Inference Attacks <br>
+  The Crossover Process: Learnability meets Data Protection from Inference Attacks <br>
   [[arXiv](https://arxiv.org/abs/1606.04160)]
 
 ### Conferences
@@ -14,11 +14,11 @@ title: Publications
 - Giorgio Patrini, Alessandro Rozza, Aditya Menon, Richard Nock, Lizhen Qu <br>
   Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach <br>
   [[arXiv](http://arxiv.org/abs/1609.03683)] <br>
-  **CVPR 2017**
+  **CVPR 2017** (oral)
 
 - Boris Muzellec, Richard Nock, Giorgio Patrini, Frank Nielsen <br>
   Tsallis Regularized Optimal Transport and Ecological Inference <br>
-  [[arXiv](http://arxiv.org/pdf/1609.04495v1.pdf)] <br>
+  [[arXiv](https://arxiv.org/abs/1609.04495)] <br>
   **AAAI 2017**
 
 - Giorgio Patrini, Frank Nielsen, Richard Nock and Marcello Carioni <br>
