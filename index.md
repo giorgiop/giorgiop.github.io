@@ -23,6 +23,7 @@ I like startups. I co-founded and advice [Waynaut](http://www.waynaut.com), amon
 ### News
 2017
 
+- May - I am a recipient of the Young Researcher Award sponsored by CVPR'17.
 - Feb - **CVPR'17** paper, accepted as **oral**:
 [Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach](http://arxiv.org/abs/1609.03683)
 - Feb - Updated preprint on [The Crossover Process: Learnability meets Data Protection from Inference Attacks](https://arxiv.org/abs/1606.04160)
