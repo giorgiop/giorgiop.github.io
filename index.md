@@ -4,7 +4,7 @@ title: Home
 ---
 
 I do research and engineering at [CSIRO Data61](http://www.data61.csiro.au) on
-topics of machine learning and privacy in the [N1](http://www.n1analytics.com) team.
+topics of machine learning and privacy in the [N1analytics](http://www.n1analytics.com) team.
 
 I completed my PhD on machine learning at the
 [Australian National University](https://www.anu.edu.au) with [NICTA](https://www.nicta.com.au), advised by
@@ -23,15 +23,12 @@ I like startups. I co-founded and advice [Waynaut](http://www.waynaut.com), amon
 ### News
 2017
 
-- May - I am a recipient of the Young Researcher Award sponsored by CVPR'17.
+- Jun - My [PhD thesis](https://openresearch-repository.anu.edu.au/handle/1885/117067) is now online
+- May - I am a recipient of the Young Researcher Award sponsored by CVPR'17
 - Feb - **CVPR'17** paper, accepted as **oral**:
 [Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach](http://arxiv.org/abs/1609.03683)
-- Feb - Updated preprint on [The Crossover Process: Learnability meets Data Protection from Inference Attacks](https://arxiv.org/abs/1606.04160)
 
 2016
 
 - Dec - Submitted my PhD thesis: Weakly supervised learning via statistical sufficiency
 - Nov - **AAAI'17** paper: [Tsallis Regularized Optimal Transport and Ecological Inference](https://arxiv.org/abs/1609.04495)
-- Aug - Talk: Weakly supervised learning via statistical sufficiency at ANU
-- Jun - Talk: [Loss factorization, weakly supervised learning and label noise robustness]({{site.baseurl}}assets/paper/2016_ICML.pdf) at ICML'16
-- Jun - Pre-print: [The Crossover Process: Learnability meets Protection from Inference Attacks](https://arxiv.org/abs/1606.04160)

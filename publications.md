@@ -64,14 +64,16 @@ title: Publications
   ￼[Bridging weak supervision and privacy aware learning via sufficient statistics]({{site.baseurl}}assets/paper/2015_NIPS.pdf) <br>
   **NIPS 2015** workshop on **Learning and privacy with incomplete data and weak supervision**
 
-- Giorgio Patrini <br>
-  [Tutorial on Laplacian Mean Map]({{site.baseurl}}assets/paper/2015_LMM.pdf)
-
 
 ### Thesis
+
+- Giorgio Patrini <br>
+  [Weakly supervised learning via statistical sufficiency](https://openresearch-repository.anu.edu.au/handle/1885/117067) <br>
+  Australian National University, 2016, PhD thesis
+
 - Giorgio Patrini and Marco Rocco <br>
   Local search techniques for Nash equilibrium computation with bimatrix game <br>
-  Politecnico di Milano 2012, M.Sc. thesis
+  Politecnico di Milano, 2012, MSc thesis
 
 
 ### Patents
@@ -86,8 +88,8 @@ title: Publications
 ### Academic service
 Reviewer for
 
+- NIPS 2015, 2016, 2017
 - JMLR 2016
-- NIPS 2015, 2016
 - S+SSPR 2016
 - JMLC 2016
 
