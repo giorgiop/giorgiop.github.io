@@ -60,6 +60,12 @@ title: Publications
 
 
 ### Workshops, tech reports and notes
+
+-  M. Djatmiko, S. Hardy, W. Henecka, H. Ivey-Law, M. Ott, G. Patrini, G. Smith,
+  B. Thorne and D. Wu <br>
+  [Privacy-preserving entity resolution and logistic regression on encrypted data]({{site.baseurl}}assets/paper/2017_ICML.pdf) <br>
+  **ICMl 2017** workshop on **Private and secure machine learning**
+
 - Giorgio Patrini, Frank Nielsen and Richard Nock <br>
   ￼[Bridging weak supervision and privacy aware learning via sufficient statistics]({{site.baseurl}}assets/paper/2015_NIPS.pdf) <br>
   **NIPS 2015** workshop on **Learning and privacy with incomplete data and weak supervision**

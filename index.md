@@ -23,9 +23,10 @@ I like startups. I co-founded and advice [Waynaut](http://www.waynaut.com), amon
 ### News
 2017
 
+- Jun - **ICML'17** paper accepted at workshop on **Private and secure machine learning**: [Privacy-preserving entity resolution and logistic regression on encrypted data]()
 - Jun - My [PhD thesis](https://openresearch-repository.anu.edu.au/handle/1885/117067) is now online
-- May - I am a recipient of the Young Researcher Award sponsored by CVPR'17
-- Feb - **CVPR'17** paper, accepted as **oral**:
+- May - I am a recipient of the Young Researcher Award sponsored by **CVPR'17**
+- Feb - **CVPR'17** paper accepted as **oral**:
 [Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach](http://arxiv.org/abs/1609.03683)
 
 2016
