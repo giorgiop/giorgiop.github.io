@@ -3,48 +3,45 @@ layout: page
 title: Publications
 ---
 
-### Pre-prints
+<!-- ### Pre-prints
 
 - Richard Nock, Giorgio Patrini, Finnian Lattimore, Tiberio Caetano <br>
   The Crossover Process: Learnability meets Data Protection from Inference Attacks <br>
-  [[arXiv](https://arxiv.org/abs/1606.04160)]
+  [[arXiv](https://arxiv.org/abs/1606.04160)] -->
 
 ### Conferences
 
 - Giorgio Patrini, Alessandro Rozza, Aditya Menon, Richard Nock, Lizhen Qu <br>
   Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach <br>
-  [[arXiv](http://arxiv.org/abs/1609.03683)] <br>
   **CVPR 2017** (oral, acceptance rate 2.7%)
+  [[arXiv](http://arxiv.org/abs/1609.03683)]
 
 - Boris Muzellec, Richard Nock, Giorgio Patrini, Frank Nielsen <br>
   Tsallis Regularized Optimal Transport and Ecological Inference <br>
-  [[arXiv](https://arxiv.org/abs/1609.04495)] <br>
   **AAAI 2017**
+  [[arXiv](https://arxiv.org/abs/1609.04495)]
 
 - Giorgio Patrini, Frank Nielsen, Richard Nock and Marcello Carioni <br>
   [Loss factorization, weakly supervised learning and label noise robustness]({{site.baseurl}}assets/paper/2016_ICML.pdf) <br>
-  [[supp]({{site.baseurl}}assets/paper/2016_ICML_supp.pdf)]
+  **ICML 2016** [[supp]({{site.baseurl}}assets/paper/2016_ICML_supp.pdf)]
   [[arXiv](http://arxiv.org/abs/1602.02450)]
-  [[video](http://techtalks.tv/talks/loss-factorization-weakly-supervised-learning-and-label-noise-robustness/62441/)]<br>
-  **ICML 2016**
+  [[video](http://techtalks.tv/talks/loss-factorization-weakly-supervised-learning-and-label-noise-robustness/62441/)]
 
 - Giorgio Patrini, Richard Nock, Stephen Hardy and Tiberio Caetano <br>
   [Fast learning from distributed datasets without entity matching]({{site.baseurl}}assets/paper/2016_IJCAI.pdf) <br>
-  [[arXiv](http://arxiv.org/abs/1603.04002)] <br>
-  **IJCAI 2016**
+  **IJCAI 2016** [[arXiv](http://arxiv.org/abs/1603.04002)]
 
 - Richard Nock, Patrini Giorgio and Arik Friedman <br>
   [Rademacher Observations, Private Data, and Boosting]({{site.url}}/assets/paper/2015_ICML.pdf) <br>
-  [[arXiv](http://arxiv.org/abs/1502.02322)] [[video](http://videolectures.net/icml2015_patrini_rademacher_observations/)] <br>
   **ICML 2015**
+  [[arXiv](http://arxiv.org/abs/1502.02322)] [[video](http://videolectures.net/icml2015_patrini_rademacher_observations/)]
 
 - Giorgio Patrini, Richard Nock, Paul Rivera and Tiberio Caetano <br>
   [(Almost) No Label No Cry]({{site.baseurl}}assets/paper/2014_NIPS.pdf) <br>
+  **NIPS 2014** (spotlight, acceptance rate 3.7%)
   [[supp]({{site.baseurl}}assets/paper/2014_NIPS_supp.pdf)]
   [[code](https://github.com/giorgiop/almostnolabel)]
-  [[other]({{site.baseurl}}assets/paper/2014_NIPS_inverted.pdf)] <br>
-  <!-- [<a href='#footnote'>&dagger;</a>] <br> -->
-  **NIPS 2014** (spotlight, acceptance rate 3.7%)
+  [[other]({{site.baseurl}}assets/paper/2014_NIPS_inverted.pdf)]
 
 - Nicola Gatti, Giorgio Patrini, Marco Rocco and Tuomas Sandholm <br>
   [Combining local search techniques and path following for bimatrix games]({{site.baseurl}}assets/paper/2012_UAI.pdf) <br>
@@ -61,8 +58,8 @@ title: Publications
 
 ### Workshops, tech reports and notes
 
--  M. Djatmiko, S. Hardy, W. Henecka, H. Ivey-Law, M. Ott, G. Patrini, G. Smith,
-  B. Thorne and D. Wu <br>
+- Mentari Djatmiko, Stephen Hardy, Wilko Henecka, Hamish Ivey-Law,
+Maximilian Ott, Giorgio Patrini, Guillaume Smith, Brian Thorne and Dongyao Wu <br>
   [Privacy-preserving entity resolution and logistic regression on encrypted data]({{site.baseurl}}assets/paper/2017_ICML.pdf) <br>
   **ICMl 2017** workshop on **Private and secure machine learning**
 
@@ -88,8 +85,6 @@ title: Publications
 
 - Richard Nock, Giorgio Patrini and Tiberio Caetano <br>
   Learning with transformed data, WO 2016/061628 A1
-
-<br>
 
 ### Academic service
 Reviewer for

@@ -23,7 +23,8 @@ I like startups. I co-founded and advice [Waynaut](http://www.waynaut.com), amon
 ### News
 2017
 
-- Jun - **ICML'17** paper accepted at workshop on **Private and secure machine learning**: [Privacy-preserving entity resolution and logistic regression on encrypted data]()
+- Jun - I will be joining the [UvA-Bosch](https://ivi.fnwi.uva.nl/uvaboschdeltalab/) lab in Amsterdam, working on deep learning with [Max Welling](https://www.ics.uci.edu/~welling/)
+- Jun - **ICML'17** paper accepted at workshop on **Private and secure machine learning**: [Privacy-preserving entity resolution and logistic regression on encrypted data]({{site.baseurl}}assets/paper/2017_ICML.pdf)
 - Jun - My [PhD thesis](https://openresearch-repository.anu.edu.au/handle/1885/117067) is now online
 - May - I am a recipient of the Young Researcher Award sponsored by **CVPR'17**
 - Feb - **CVPR'17** paper accepted as **oral**:
