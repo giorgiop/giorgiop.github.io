@@ -12,9 +12,8 @@ title: Publications
 ### Conferences
 
 - Giorgio Patrini, Alessandro Rozza, Aditya Menon, Richard Nock, Lizhen Qu <br>
-  Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach <br>
+  [Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach]({{site.baseurl}}assets/paper/2017_CVPR.pdf) <br>
   **CVPR 2017** (oral, acceptance rate 2.7%)
-  [[arXiv](http://arxiv.org/abs/1609.03683)]
 
 - Boris Muzellec, Richard Nock, Giorgio Patrini, Frank Nielsen <br>
   Tsallis Regularized Optimal Transport and Ecological Inference <br>
