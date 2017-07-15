@@ -5,6 +5,7 @@ title: Talks
 
 2017
 
+- Aug 11 - Privacy-Preserving Entity Resolution and Logistic Regression on Encrypted Data at ICML, Sydney.
 - Jul 23 - Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach at CVPR, Honolulu.
 - Jul 6 - Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach at Dat61 CSIRO, Sydney.
 
