@@ -5,9 +5,9 @@ title: Talks
 
 2017
 
-- Aug 11 - Privacy-Preserving Entity Resolution and Logistic Regression on Encrypted Data at ICML, Sydney.
-- Jul 23 - Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach at CVPR, Honolulu.
-- Jul 6 - Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach at Dat61 CSIRO, Sydney.
+- Aug 11 - Privacy-preserving entity resolution and logistic regression on encrypted data at ICML, Sydney.
+- Jul 23 - Making deep neural networks robust to label noise: a loss correction approach at CVPR, Honolulu.
+- Jul 6 - Making deep neural networks robust to label noise: a loss correction approach at Dat61 CSIRO, Sydney.
 
 2016
 
@@ -18,8 +18,8 @@ title: Talks
 
 2015
 
-- Nov 19 - Loss Factorization and Learning from Label Proportions at Columbia University, New York.
-- Nov 11 - Loss Factorization and Learning from Label Proportions at Telecom Paris-Tech, Paris.
+- Nov 19 - Loss factorization and learning from label proportions at Columbia University, New York.
+- Nov 11 - Loss factorization and learning from label proportions at Telecom Paris-Tech, Paris.
 - Sep 22 - Learning from aggregates at INRIA Parietal Neurospin, Paris.
 - Aug 26 - Learning from aggregates at TU Dortmund, Dortmund. [[slides]({{site.baseurl}}assets/slides/2015_TU_Dortmund.pdf)]
 - Jul 7 - Rademacher observations, private data and boosting at ICML, Lille. [[slides]({{site.baseurl}}assets/slides/2015_ICML.pdf)]
@@ -38,4 +38,4 @@ title: Talks
 2013
 
 - Nov 21 - Propensity score matching at Commonwealth Bank of Australia, Sydney.
-- Mar 21 - Weakly supervised learning and interpretability at NICTA, Kioloa, Australia
+- Mar 21 - Weakly supervised learning and interpretability at NICTA, Kioloa (Australia).
