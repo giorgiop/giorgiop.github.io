@@ -2,6 +2,12 @@
 layout: page
 title: Talks
 ---
+
+2017
+
+- Jul 23 - Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach at CVPR, Honolulu.
+- Jul 6 - Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach at Dat61 CSIRO, Sydney.
+
 2016
 
 - Aug 4 - Weakly supervised learning via statistical sufficiency at ANU/Data61, Canberra.
