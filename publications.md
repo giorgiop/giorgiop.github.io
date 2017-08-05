@@ -20,7 +20,8 @@ title: Publications
 
 - Giorgio Patrini, Frank Nielsen, Richard Nock and Marcello Carioni <br>
   [Loss factorization, weakly supervised learning and label noise robustness]({{site.baseurl}}assets/paper/2016_ICML.pdf) <br>
-  **ICML 2016** [[supp]({{site.baseurl}}assets/paper/2016_ICML_supp.pdf)]
+  **ICML 2016**
+  [[supp]({{site.baseurl}}assets/paper/2016_ICML_supp.pdf)]
   [[arXiv](http://arxiv.org/abs/1602.02450)]
   [[video](http://techtalks.tv/talks/loss-factorization-weakly-supervised-learning-and-label-noise-robustness/62441/)]
   [[slides]({{site.baseurl}}assets/slides/2016_ICML.pdf)]
