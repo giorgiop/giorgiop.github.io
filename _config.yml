@@ -10,7 +10,7 @@ permalink:        pretty
 title:            giorgio patrini
 tagline:          'my personal webpage'
 url:              http://giorgiopatrini.org
-baseurl:          /
+baseurl:          /blog-site
 
 author:
   name:           'Giorgio Patrini'
