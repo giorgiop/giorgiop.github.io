@@ -9,11 +9,15 @@ title: Publications
   The Crossover Process: Learnability meets Data Protection from Inference Attacks <br>
   [[arXiv](https://arxiv.org/abs/1606.04160)] -->
 
+
 ### Conferences
 
 - Giorgio Patrini, Alessandro Rozza, Aditya Menon, Richard Nock, Lizhen Qu <br>
   [Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach]({{site.baseurl}}assets/paper/2017_CVPR.pdf) <br>
   **CVPR 2017** (oral, acceptance rate 2.7%)
+  [[code](https://github.com/giorgiop/loss-correction)]
+  [[video](https://www.youtube.com/watch?v=RDTcV9Zx1C4)]
+  [[slides]({{site.baseurl}}assets/slides/2017_CVPR.pdf)]
 
 - Boris Muzellec, Richard Nock, Giorgio Patrini, Frank Nielsen <br>
   Tsallis Regularized Optimal Transport and Ecological Inference <br>
@@ -25,6 +29,7 @@ title: Publications
   **ICML 2016** [[supp]({{site.baseurl}}assets/paper/2016_ICML_supp.pdf)]
   [[arXiv](http://arxiv.org/abs/1602.02450)]
   [[video](http://techtalks.tv/talks/loss-factorization-weakly-supervised-learning-and-label-noise-robustness/62441/)]
+  [[slides]({{site.baseurl}}assets/slides/2016_ICML.pdf)]
 
 - Giorgio Patrini, Richard Nock, Stephen Hardy and Tiberio Caetano <br>
   [Fast learning from distributed datasets without entity matching]({{site.baseurl}}assets/paper/2016_IJCAI.pdf) <br>
@@ -34,6 +39,7 @@ title: Publications
   [Rademacher Observations, Private Data, and Boosting]({{site.url}}/assets/paper/2015_ICML.pdf) <br>
   **ICML 2015**
   [[arXiv](http://arxiv.org/abs/1502.02322)] [[video](http://videolectures.net/icml2015_patrini_rademacher_observations/)]
+  [[slides]({{site.baseurl}}assets/slides/2015_ICML.pdf)]
 
 - Giorgio Patrini, Richard Nock, Paul Rivera and Tiberio Caetano <br>
   [(Almost) No Label No Cry]({{site.baseurl}}assets/paper/2014_NIPS.pdf) <br>
@@ -58,7 +64,7 @@ title: Publications
 ### Workshops, tech reports and notes
 
 - Mentari Djatmiko, Stephen Hardy, Wilko Henecka, Hamish Ivey-Law,
-Maximilian Ott, Giorgio Patrini, Guillaume Smith, Brian Thorne and Dongyao Wu <br>
+  Maximilian Ott, Giorgio Patrini, Guillaume Smith, Brian Thorne and Dongyao Wu <br>
   [Privacy-preserving entity resolution and logistic regression on encrypted data]({{site.baseurl}}assets/paper/2017_ICML.pdf) <br>
   **ICMl 2017** workshop on **Private and secure machine learning**
 
