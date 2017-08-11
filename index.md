@@ -23,15 +23,16 @@ I like startups. I co-founded and advice [Waynaut](http://www.waynaut.com), amon
 ### News
 2017
 
+- Aug - Slides of our ICML17 workshop talk on entity resolution and logistic regression with encrypted data is [online]({{site.baseurl}}assets/slides/2017_ICML.pdf)
 - Jul - We published a first [blog post](https://blog.n1analytics.com/distributed-machine-learning-and-partially-homomorphic-encryption-1/) on federated machine learning and Paillier homomorphic encryption
 - Jun - I will be joining the [UvA-Bosch](https://ivi.fnwi.uva.nl/uvaboschdeltalab/) lab in Amsterdam, working on deep learning with [Max Welling](https://staff.fnwi.uva.nl/m.welling/)
-- Jun - **ICML'17** paper accepted at workshop on **Private and secure machine learning**: [Privacy-preserving entity resolution and logistic regression on encrypted data]({{site.baseurl}}assets/paper/2017_ICML.pdf)
+- Jun - **ICML17** paper accepted at workshop on **Private and secure machine learning**: [Privacy-preserving entity resolution and logistic regression on encrypted data]({{site.baseurl}}assets/paper/2017_ICML.pdf)
 - Jun - My [PhD thesis](https://openresearch-repository.anu.edu.au/handle/1885/117067) is now online
-- May - I am a recipient of the Young Researcher Award sponsored by **CVPR'17**
-- Feb - **CVPR'17** paper accepted as **oral**:
+- May - I am a recipient of the Young Researcher Award sponsored by **CVPR17**
+- Feb - **CVPR17** paper accepted as **oral**:
 [Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach](http://arxiv.org/abs/1609.03683)
 
 2016
 
 - Dec - Submitted my PhD thesis: Weakly supervised learning via statistical sufficiency
-- Nov - **AAAI'17** paper: [Tsallis Regularized Optimal Transport and Ecological Inference](https://arxiv.org/abs/1609.04495)
+- Nov - **AAAI17** paper: [Tsallis Regularized Optimal Transport and Ecological Inference](https://arxiv.org/abs/1609.04495)
