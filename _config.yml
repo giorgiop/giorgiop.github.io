@@ -12,9 +12,11 @@ tagline:          'my personal webpage'
 url:              http://giorgiopatrini.org
 baseurl:          http://giorgiopatrini.org/
 
+
 author:
   name:           'Giorgio Patrini'
   email:          'giorgio.patrini @ anu.edu.au'
+  location:       'Sydney, Australia'
 
 paginate:         5
 

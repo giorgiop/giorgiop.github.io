@@ -8,7 +8,7 @@ title: Publications
 
 - Giorgio Patrini, Alessandro Rozza, Aditya Menon, Richard Nock, Lizhen Qu <br>
   [Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach]({{site.baseurl}}assets/paper/2017_CVPR.pdf) <br>
-  **CVPR 2017** (oral, acceptance rate 2.7%)
+  **CVPR 2017** (**oral**, acceptance rate 2.7%)
   [[code](https://github.com/giorgiop/loss-correction)]
   [[video](https://www.youtube.com/watch?v=RDTcV9Zx1C4)]
   [[slides]({{site.baseurl}}assets/slides/2017_CVPR.pdf)]
@@ -38,7 +38,7 @@ title: Publications
 
 - Giorgio Patrini, Richard Nock, Paul Rivera and Tiberio Caetano <br>
   [(Almost) No Label No Cry]({{site.baseurl}}assets/paper/2014_NIPS.pdf) <br>
-  **NIPS 2014** (spotlight, acceptance rate 3.7%)
+  **NIPS 2014** (**spotlight**, acceptance rate 3.7%)
   [[supp]({{site.baseurl}}assets/paper/2014_NIPS_supp.pdf)]
   [[code](https://github.com/giorgiop/almostnolabel)]
   [[other]({{site.baseurl}}assets/paper/2014_NIPS_inverted.pdf)]
