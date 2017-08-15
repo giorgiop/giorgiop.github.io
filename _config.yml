@@ -4,7 +4,6 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-# relative_permalinks: true
 
 # Setup
 title:            giorgio patrini
@@ -18,11 +17,8 @@ author:
   email:          'giorgio.patrini @ anu.edu.au'
   location:       'Sydney, Australia'
 
-paginate:         5
-
 gems:
   - jekyll/scholar
-  - jekyll-paginate
 
 # jekyll-scholar config
 scholar:
