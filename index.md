@@ -3,16 +3,15 @@ layout: default
 title: Home
 ---
 
-I do research and engineering at [CSIRO Data61](http://www.data61.csiro.au) on
-topics of machine learning and privacy in the [N1analytics](http://www.n1analytics.com) team.
+I am a postdoctoral researcher at the [UvA-Bosch DELTA Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/) (Deep Learning Technologies Amsterdam), a joint effort of the University of Amsterdam and Bosch, led by [Max Welling](https://staff.fnwi.uva.nl/m.welling/), where we work on fundamental research in deep learning for computer vision and automotive.
 
+Previously, I did research and engineering on topics of machine learning and privacy at  [N1analytics](http://www.n1analytics.com), part of [CSIRO Data61](http://www.data61.csiro.au).
 I completed my PhD on machine learning at the
 [Australian National University](https://www.anu.edu.au) with [NICTA](https://www.nicta.com.au), advised by
 [Richard Nock](http://users.cecs.anu.edu.au/~rnock/) and
 [Tiberio Caetano](http://www.tiberiocaetano.com). My thesis was about
-weak supervision, i.e. any learning problem in the continuum between supervised and
-unsupervised learning. In particular, I studied scenarios where supervision is given by high-level aggregated statistics or corrupted by noise; I also touched on learning theory, privacy, distributed data and deep learning.
-
+weak supervision, learning problems in the continuum between supervised and
+unsupervised learning, for examples when supervision is given by high-level aggregated statistics or corrupted by noise; I also touched on learning theory, privacy and deep learning.
 Prior to moving to Australia, I received my BSc and MSc from Politecnico di Milano with
 a research thesis on Nash equilibrium computation working with
 [Nicola Gatti](http://www.gametheory.polimi.it/nicola-gatti.html).
@@ -23,6 +22,8 @@ I like startups. I co-founded and advice [Waynaut](http://www.waynaut.com), amon
 ### News
 2017
 
+- Sep - I have moved to [UvA-Bosch DELTA Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/) (Deep Learning Technologies Amsterdam) as a postdoctoral researcher
+- Aug - We have published a follow up [blog post](https://blog.n1analytics.com/distributed-machine-learning-and-partially-homomorphic-encryption-2/) on how to use encrypted models for prediction
 - Aug - Slides of our ICML17 workshop talk on entity resolution and logistic regression with encrypted data is [online]({{site.baseurl}}assets/slides/2017_ICML.pdf)
 - Jul - We published a first [blog post](https://blog.n1analytics.com/distributed-machine-learning-and-partially-homomorphic-encryption-1/) on federated machine learning and Paillier homomorphic encryption
 - Jun - I will be joining the [UvA-Bosch](https://ivi.fnwi.uva.nl/uvaboschdeltalab/) lab in Amsterdam, working on deep learning with [Max Welling](https://staff.fnwi.uva.nl/m.welling/)

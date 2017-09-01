@@ -15,7 +15,7 @@ baseurl:          http://giorgiopatrini.org/
 author:
   name:           'Giorgio Patrini'
   email:          'giorgio.patrini @ anu.edu.au'
-  location:       'Sydney, Australia'
+  location:       'Amsterdam, Netherlands'
 
 gems:
   - jekyll/scholar

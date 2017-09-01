@@ -1,5 +1,5 @@
 ---
-title: 'Distributed machine learning and partially homomorphic encryption (Part 2)'
+title: 'Distributed machine learning and partially homomorphic encryption (part 2)'
 summary: How to apply an encrypted model to score remote data
 layout: post
 date: 2017-08-14

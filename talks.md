@@ -8,6 +8,7 @@ title: Talks
 - Aug 11 - Privacy-preserving entity resolution and logistic regression on encrypted data at ICML, Sydney.
 [[slides]({{site.baseurl}}assets/slides/2017_ICML.pdf)]
 - Jul 23 - Making deep neural networks robust to label noise: a loss correction approach at CVPR, Honolulu.
+[[video](https://www.youtube.com/watch?v=RDTcV9Zx1C4)]
 [[slides]({{site.baseurl}}assets/slides/2017_CVPR.pdf)]
 - Jul 6 - Making deep neural networks robust to label noise: a loss correction approach at Dat61 CSIRO, Sydney.
 
@@ -16,7 +17,8 @@ title: Talks
 - Aug 4 - Weakly supervised learning via statistical sufficiency at ANU/Data61, Canberra.
   [[slides]({{site.baseurl}}assets/slides/phd_thesis.pdf)]
 - Jun 20 - Loss factorization, weakly supervised learning and label noise robustness at ICML, New York.
-  [[slides]({{site.baseurl}}assets/slides/2016_ICML.pdf)]
+[[video](http://techtalks.tv/talks/loss-factorization-weakly-supervised-learning-and-label-noise-robustness/62441/)]
+[[slides]({{site.baseurl}}assets/slides/2016_ICML.pdf)]
 
 2015
 
@@ -24,7 +26,8 @@ title: Talks
 - Nov 11 - Loss factorization and learning from label proportions at Telecom Paris-Tech, Paris.
 - Sep 22 - Learning from aggregates at INRIA Parietal Neurospin, Paris.
 - Aug 26 - Learning from aggregates at TU Dortmund, Dortmund. [[slides]({{site.baseurl}}assets/slides/2015_TU_Dortmund.pdf)]
-- Jul 7 - Rademacher observations, private data and boosting at ICML, Lille. [[slides]({{site.baseurl}}assets/slides/2015_ICML.pdf)]
+- Jul 7 - Rademacher observations, private data and boosting at ICML, Lille. [[video](http://videolectures.net/icml2015_patrini_rademacher_observations/)]
+[[slides]({{site.baseurl}}assets/slides/2015_ICML.pdf)]
 - Jun 24 - Learning from aggregates at TU Delft, Delft.
 - Jun 8 - Learning from aggregates at Ecole Polytechnique, Paris.
 

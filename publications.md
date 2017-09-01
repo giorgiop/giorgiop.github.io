@@ -41,7 +41,6 @@ title: Publications
   **NIPS 2014** (**spotlight**, acceptance rate 3.7%)
   [[supp]({{site.baseurl}}assets/paper/2014_NIPS_supp.pdf)]
   [[code](https://github.com/giorgiop/almostnolabel)]
-  [[other]({{site.baseurl}}assets/paper/2014_NIPS_inverted.pdf)]
 
 - Nicola Gatti, Giorgio Patrini, Marco Rocco and Tuomas Sandholm <br>
   [Combining local search techniques and path following for bimatrix games]({{site.baseurl}}assets/paper/2012_UAI.pdf) <br>

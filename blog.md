@@ -6,16 +6,22 @@ title: Blog
 <br>
 
 <div class="posts">
+<ul>
   {% for post in site.posts %}
-    <article class="post">
 
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <span class="post-date">{{ post.date | date_to_string }}</span>
+  <li>
 
-      <div class="entry">
+      <h4>
+      {{ post.date | date_to_string }} |
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      </h4>
+
+
+
         {{ post.summary }}
-      </div>
 
-    </article>
+
+    </li>
   {% endfor %}
+  </ul>
 </div>
