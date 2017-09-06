@@ -10,9 +10,8 @@ I completed my PhD on machine learning at the
 [Australian National University](https://www.anu.edu.au) with [NICTA](https://www.nicta.com.au), advised by
 [Richard Nock](http://users.cecs.anu.edu.au/~rnock/) and
 [Tiberio Caetano](http://www.tiberiocaetano.com). My thesis was about
-weak supervision, learning problems in the continuum between supervised and
-unsupervised learning, for examples when supervision is given by high-level aggregated statistics or corrupted by noise; I also touched on learning theory, privacy and deep learning.
-Prior to moving to Australia, I received my BSc and MSc from Politecnico di Milano with
+weak supervision, *e.g.* labels corrupted by noise or by higher-level aggregation, touching on  learning theory, privacy and deep learning.
+I received my BSc and MSc from Politecnico di Milano with
 a research thesis on Nash equilibrium computation working with
 [Nicola Gatti](http://www.gametheory.polimi.it/nicola-gatti.html).
 

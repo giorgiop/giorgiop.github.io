@@ -14,7 +14,7 @@ baseurl:          http://giorgiopatrini.org/
 
 author:
   name:           'Giorgio Patrini'
-  email:          'giorgio.patrini @ anu.edu.au'
+  email:          'g.patrini @ uva.nl'
   location:       'Amsterdam, Netherlands'
 
 gems:

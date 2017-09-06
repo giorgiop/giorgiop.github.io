@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Blog
@@ -13,7 +12,8 @@ title: Blog
   <li>
 
       <h4>
-      {{ post.date | date_to_string }} |
+      {{ post.date | date_to_string }}
+      <br>
       <a href="{{ post.url }}">{{ post.title }}</a>
       </h4>
 
