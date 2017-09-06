@@ -3,7 +3,7 @@ title: 'In search of the missing signals'
 summary: Advances from 2017 for learning in the unsupervised way
 layout: post
 date: 2017-09-06
-permalink: /posts/2017/09/06/in-search-of-the-miss2ing-signals/
+permalink: /posts/2017/09/06/in-search-of-the-missing-signals/
 tags:
   - deep learning
   - unsupervised learning
