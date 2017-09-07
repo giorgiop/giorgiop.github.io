@@ -232,7 +232,7 @@ Huge thanks for discussions and feedback to Frank Nielsen, Mevlana Gemici,
 Marcello Carioni, Richard Nock, Hamish Ivey-Law, Wilko Henecka and Zeynep Akata.
 
 
-###References
+### References
 
 - [[Bojanowski & Joulin ICML17]](https://arxiv.org/abs/1704.05310) Piotr Bojanowski and Armand Joulin, Unsupervised learning by predicting the noise, ICML17
 
