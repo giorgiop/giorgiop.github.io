@@ -22,15 +22,15 @@ for most of its learning time. Or, in a picture, here you have the now famous **
 <img src="/assets/posts/2017-09-06-in-search-of-the-missing-signals/cake.png" alt='LeCake'>
 
 The fact is,
-by training machines with many labels, they have a somewhat easier time with respect to how *we* --- humans --- may learn. Think about: finding **intrinsic regularities**; being surprised when those natural patterns are broken and therefore investigate their **causes**;
+by training machines with many labels, they have a somewhat easier time with respect to how *we* --- animals --- may learn. Think about: finding **intrinsic regularities**; being surprised when those natural patterns are broken and therefore investigate their **causes**;
 acting by **curiosity**; training by **playing**. Neither of those require explicit supervision about what's good or bad, in principle. Yes, this is a somewhat arbitrary list, but I made it up
 to roughly connect with the ideas loosely inspiring the papers I have selected for this post.
 
 The unifying idea here below is finding self supervision in
 improbable, previously unexplored places of the data. Where should we look for signals when there is no label? Or, how to learn features without any explicit supervision?
 
-<br>
-**[[Bojanowski & Joulin ICML17]](https://arxiv.org/abs/1704.05310)** A striking answer is given in here and that is: from noise.
+<br>**Unsupervised learning by predicting the noise
+[[Bojanowski & Joulin ICML17]](https://arxiv.org/abs/1704.05310)** A striking answer is given in here and that is: from noise.
 I rank this paper among the very top ones at ICML this year. The idea goes as follows.
 Sample uniformly random vectors from a hypersphere, in a number that is of the order of the data
 points. Those are going to be the surrogates for the regression targets. In fact, learning
@@ -48,22 +48,23 @@ method.
 
 <img src="/assets/posts/2017-09-06-in-search-of-the-missing-signals/Bojanowski2.png">
 
-This approach appears to be SOTA in the cases of transfer learning explored in the paper. But why should it work at all? My interpretation: the net is learning a new space of representation
+This approach appears to be state of the art in the cases of transfer learning explored in the paper. But why should it work at all? My interpretation: the net is learning a new space of representation
 that is good for describing a metric on the hypersphere. This is a sort of implicit
 **manifold learning**. Optimizing by shuffling the assignment is probably crucial since a
-bad match would not allow similar images to be mapped close to each other in the new representation.
+bad match would not allow similar images to be mapped close to each other in the new representation. Moreover, the network must act as an information bottleneck,
+as usual. Otherwise, in the limit of infinite capacity the model would simply
+learn an uninformative 1-to-1 image to noise map. (Thank to Mevlana for stressing this point.)
 
 The promising results from this seriously counterintuitive idea -- I mean, the authors wanted to convey so, see the title --
 is basically reiterating the argument that you should not need labels to find out about
 patterns in your data, even when the objective is building complex visual features.
 
-See also **[[Bojanowski et al. arXiv17]]()**.
+See also **[[Bojanowski et al. arXiv17]](https://arxiv.org/abs/1707.05776)**.
 
 
 
 <br>
-**[[Lopez-Paz et al. CVPR17]](https://arxiv.org/abs/1605.08179)** I found out about the next from a provocative and inspiring talk by
-Lean Bottou titled [Looking for the missing signal](https://www.youtube.com/watch?v=DfJeaa--xO0&t=12s) (yes, I stole the title from there). The second half of it is about their  [WGAN](https://arxiv.org/abs/1701.07875); the relevant bit here is about causality.
+**Discovering causal signals in images [[Lopez-Paz et al. CVPR17]](https://arxiv.org/abs/1605.08179)** I found out about the next from a provocative and inspiring talk by Léon Bottou titled [Looking for the missing signal](https://www.youtube.com/watch?v=DfJeaa--xO0&t=12s) (yes, I stole the title from there). The second half of it is about their  [WGAN](https://arxiv.org/abs/1701.07875); the relevant bit here is about causality.
 But before talking about it, let's step back for a minute to see how causality may
 be relevant for our discussion.
 
@@ -85,8 +86,7 @@ Context features give the background while object features are what it would be
 usually inside bounding boxes in an image dataset; respectively, the Savanna
 and the lion's mane.
 
-Independently, "causal features are those that cause the presence of the object of interest in the image (that is, those features that cause the object’s class label), while anticausal features are those caused by the presence of the object in the image (that is, those features caused by the class label)." Respectively, in our examples a causal feature would be indeed the Savanna's visual patterns and
-an anticausal feature would be the lion's mane.
+Independently, "causal features are those that cause the presence of the object of interest in the image (that is, those features that cause the object’s class label), while anticausal features are those caused by the presence of the object in the image (that is, those features caused by the class label)." Respectively, in our examples a causal feature would be indeed the Savanna's visual patterns and an anticausal feature would be the lion's mane.
 
 How did they go about the experiments? My short summary won't do justice, but I will try.
 First, we need to train a detector for causal direction. The idea is based on much previous work
@@ -120,14 +120,14 @@ generating process of the data.
 See also **[[Peters et al. JRSS17]](https://arxiv.org/abs/1501.01332), [[Louizos et al. NIPS17]](https://arxiv.org/abs/1705.08821)**.
 
 <br>
-**[[Jaderberg et al. ICLR17]](https://arxiv.org/abs/1611.05397)** This paper may
+**Reinforcement learning with unsupervised auxiliary tasks [[Jaderberg et al. ICLR17]](https://arxiv.org/abs/1611.05397)** This paper may
 be considered a bit old by current standards since it has already 60 citations at
 the time I am writing --- it was on the arXiv from November \`16!
 There is in fact some newer work that already builds on the idea. But in fact
 I have picked it exactly because of its fundamentally novel insight, instead of discussing
 more sophisticated methods based on it.
 
-The scenario is reinforcement leaning. A major difficulty in training an agent
+The scenario is reinforcement learning. A major difficulty in training an agent
 with reinforcement learning is the sparsity/delay of the rewards. So why not
 augmenting the training signal by introducing **auxiliary tasks**?
 Of course the catch is that the pseudo-reward must be both related to the
@@ -167,7 +167,7 @@ of abstraction. "Learning to reconstruct only led to faster initial learning and
 <img src="/assets/posts/2017-09-06-in-search-of-the-missing-signals/pixelcontrol.png" width="110%">
 
 <br>
-**[[Sukhbaatar et al. arXiv17]](https://arxiv.org/abs/1703.05407)**
+**Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play [[Sukhbaatar et al. arXiv17]](https://arxiv.org/abs/1703.05407)**
 The last paper I want to highlight is
 related to the idea above of auxiliary tasks in reinforcement learning. But,
 crucially, instead of tweaking the objective function explicitly, the agent is
@@ -222,27 +222,32 @@ indirectly uses supervised or reinforcement learning for measuring how useful
 those features can be. This is OK when unsupervised learning is performed
 precisely with the intent of improving and speeding up training for predictive
 models or agents. Yet, the story is different when instead we are after a general
-representation of, say, videos or texts that should **generalize to unseen data distribution**
+representation of, say, videos or texts that should **generalize to unseen data distributions**
 "of the same kind", which is broadly the idea of robust features for transfer learning.
 
+
 <br>
+
+Huge thanks for discussions and feedback to Frank Nielsen, Mevlana Gemici,
+Marcello Carioni, Richard Nock, Hamish Ivey-Law, Wilko Henecka and Zeynep Akata.
+
 
 ###References
 
 
-- [Bojanowski & Joulin ICML17] Piotr Bojanowski and Armand Joulin, Unsupervised learning by predicting the noise, ICML17
+- [[Bojanowski & Joulin ICML17]](https://arxiv.org/abs/1704.05310) Piotr Bojanowski and Armand Joulin, Unsupervised learning by predicting the noise, ICML17
 
-- [Bojanowski et al. arXiv17] Piotr Bojanowski, Armand Joulin, David Lopez-Paz and Arthur Szlam,
-Optimizing the Latent Space of Generative Networks, arXiv17
+- [[Bojanowski et al. arXiv17]](https://arxiv.org/abs/1707.05776) Piotr Bojanowski, Armand Joulin, David Lopez-Paz and Arthur Szlam,
+Optimizing the latent space of generative networks, arXiv17
 
-- [Jaderberg et al. ICLR17] Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver and  Koray Kavukcuoglu Reinforcement Learning with Unsupervised Auxiliary Tasks, ICLR17
+- [[Jaderberg et al. ICLR17]](https://arxiv.org/abs/1611.05397) Max Jaderberg, Volodymyr Mnih, Wojciech Marian Czarnecki, Tom Schaul, Joel Z Leibo, David Silver and  Koray Kavukcuoglu, Reinforcement learning with unsupervised auxiliary tasks, ICLR17
 
-- [Lopez-Paz et al. CVPR17] David Lopez-Paz, Robert Nishihara, Soumith Chintalah, Bernhard Schölkopf and Léon Bottou, Discovering Causal Signals in Images, CVPR17
+- [[Lopez-Paz et al. CVPR17]](https://arxiv.org/abs/1605.08179) David Lopez-Paz, Robert Nishihara, Soumith Chintalah, Bernhard Schölkopf and Léon Bottou, Discovering causal signals in images, CVPR17
 
-- [Louizos et al. NIPS17] Christos Louizos, Uri Shalit, Joris Mooij, David Sontag, Richard Zemel and Max Welling Causal Effect Inference with Deep Latent-Variable Models, NIPS17
+- [[Louizos et al. NIPS17]](https://arxiv.org/abs/1705.08821) Christos Louizos, Uri Shalit, Joris Mooij, David Sontag, Richard Zemel and Max Welling, Causal effect inference with deep latent-variable models, NIPS17
 
-- [Matiisen et al. arXiv17] Tambet Matiisen, Avital Oliver, Taco Cohen and John Schulman, Teacher-Student Curriculum Learning, arXiv17
+- [[Matiisen et al. arXiv17]](https://arxiv.org/abs/1707.00183) Tambet Matiisen, Avital Oliver, Taco Cohen and John Schulman, teacher-student curriculum learning, arXiv17
 
-- [Sukhbaatar et al. arXiv17] Sainbayar Sukhbaatar, Zeming Lin, Ilya Kostrikov, Gabriel Synnaeve and Arthur Szlam, Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play, arXiv17
+- [[Sukhbaatar et al. arXiv17]](https://arxiv.org/abs/1703.05407) Sainbayar Sukhbaatar, Zeming Lin, Ilya Kostrikov, Gabriel Synnaeve and Arthur Szlam, Intrinsic motivation and automatic curricula via asymmetric self-play, arXiv17
 
-- [Peters et al. JRSS15] Jonas Peters, Peter Bühlmann and Nicolai Meinshausen, Causal inference using invariant prediction: identification and confidence intervals, Journal of the Royal Statistical Society '17
+- [[Peters et al. JRSS15]](https://arxiv.org/abs/1501.01332) Jonas Peters, Peter Bühlmann and Nicolai Meinshausen, Causal inference using invariant prediction: identification and confidence intervals, Journal of the Royal Statistical Society '17
