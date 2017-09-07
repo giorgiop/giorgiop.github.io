@@ -117,7 +117,7 @@ principle, help learning features that generalize better when the data distribut
 Causality should help with building more robust features by awareness of the
 generating process of the data.
 
-See also **[[Peters et al. JRSS17]](https://arxiv.org/abs/1501.01332), [[Louizos et al. NIPS17]](https://arxiv.org/abs/1705.08821)**.
+See also **[[Peters et al. JRSS15]](https://arxiv.org/abs/1501.01332), [[Louizos et al. NIPS17]](https://arxiv.org/abs/1705.08821)**.
 
 <br>
 **Reinforcement learning with unsupervised auxiliary tasks [[Jaderberg et al. ICLR17]](https://arxiv.org/abs/1611.05397)** This paper may
@@ -233,7 +233,6 @@ Marcello Carioni, Richard Nock, Hamish Ivey-Law, Wilko Henecka and Zeynep Akata.
 
 
 ###References
-
 
 - [[Bojanowski & Joulin ICML17]](https://arxiv.org/abs/1704.05310) Piotr Bojanowski and Armand Joulin, Unsupervised learning by predicting the noise, ICML17
 
