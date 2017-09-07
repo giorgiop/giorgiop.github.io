@@ -10,6 +10,17 @@ tags:
 img-folder: 2017-09-06-in-search-of-the-missing-signals
 ---
 
+*TLDR; An overview of current trends for feature learning in the
+unsupervised way:
+regress to random targets for manifold learning,
+exploit causality to characterize visual features,
+and in reinforcement learning, augment the objective with auxiliary control
+tasks and pre-train by self-play.
+There is so much to learn from unlabeled data and it seems that we have
+only skimmed the surface of it by only using labels.*
+
+<br>
+
 What’s happening in the space of unsupervised learning in 2017? In this post I will give an
 overview of recent work, from a very biased, personal pick.
 
@@ -30,7 +41,8 @@ The unifying idea here below is finding self supervision in
 improbable, previously unexplored places of the data. Where should we look for signals when there is no label? Or, how to learn features without any explicit supervision?
 
 <br>**Unsupervised learning by predicting the noise
-[[Bojanowski & Joulin ICML17]](https://arxiv.org/abs/1704.05310)** A striking answer is given in here and that is: from noise.
+[[Bojanowski & Joulin ICML17]](https://arxiv.org/abs/1704.05310)**
+A striking answer is given in here and that is: from noise.
 I rank this paper among the very top ones at ICML this year. The idea goes as follows.
 Sample uniformly random vectors from a hypersphere, in a number that is of the order of the data
 points. Those are going to be the surrogates for the regression targets. In fact, learning
