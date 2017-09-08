@@ -179,7 +179,7 @@ of abstraction. "Learning to reconstruct only led to faster initial learning and
 <img src="/assets/posts/2017-09-06-in-search-of-the-missing-signals/pixelcontrol.png" width="110%">
 
 <br>
-**Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play [[Sukhbaatar et al. arXiv17]](https://arxiv.org/abs/1703.05407)**
+**Intrinsic motivation and automatic curricula via asymmetric self-play [[Sukhbaatar et al. arXiv17]](https://arxiv.org/abs/1703.05407)**
 The last paper I want to highlight is
 related to the idea above of auxiliary tasks in reinforcement learning. But,
 crucially, instead of tweaking the objective function explicitly, the agent is
