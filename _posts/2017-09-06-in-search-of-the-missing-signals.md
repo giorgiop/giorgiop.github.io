@@ -241,7 +241,8 @@ representation of, say, videos or texts that should **generalize to unseen data 
 <br>
 
 Huge thanks for discussions and feedback to Frank Nielsen, Mevlana Gemici,
-Marcello Carioni, Richard Nock, Hamish Ivey-Law, Wilko Henecka and Zeynep Akata.
+Marcello Carioni, Richard Nock, Hamish Ivey-Law, Wilko Henecka, Zeynep Akata and
+Veronika Cheplygina.
 
 
 ### References
