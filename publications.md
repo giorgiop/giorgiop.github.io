@@ -6,14 +6,14 @@ title: Publications
 
 ### Conferences
 
-- Giorgio Patrini, Alessandro Rozza, Aditya Menon, Richard Nock, Lizhen Qu <br>
+- Giorgio Patrini, Alessandro Rozza, Aditya Menon, Richard Nock and Lizhen Qu <br>
   [Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach]({{site.baseurl}}assets/paper/2017_CVPR.pdf) <br>
   **CVPR 2017** (**oral**, acceptance rate 2.7%)
   [[code](https://github.com/giorgiop/loss-correction)]
   [[video](https://www.youtube.com/watch?v=RDTcV9Zx1C4)]
   [[slides]({{site.baseurl}}assets/slides/2017_CVPR.pdf)]
 
-- Boris Muzellec, Richard Nock, Giorgio Patrini, Frank Nielsen <br>
+- Boris Muzellec, Richard Nock, Giorgio Patrini and Frank Nielsen <br>
   Tsallis Regularized Optimal Transport and Ecological Inference <br>
   **AAAI 2017**
   [[arXiv](https://arxiv.org/abs/1609.04495)]
@@ -30,7 +30,7 @@ title: Publications
   [Fast learning from distributed datasets without entity matching]({{site.baseurl}}assets/paper/2016_IJCAI.pdf) <br>
   **IJCAI 2016** [[arXiv](http://arxiv.org/abs/1603.04002)]
 
-- Richard Nock, Patrini Giorgio and Arik Friedman <br>
+- Richard Nock, Giorgio Patrini and Arik Friedman <br>
   [Rademacher Observations, Private Data, and Boosting]({{site.url}}/assets/paper/2015_ICML.pdf) <br>
   **ICML 2015**
   [[arXiv](http://arxiv.org/abs/1502.02322)] [[video](http://videolectures.net/icml2015_patrini_rademacher_observations/)]
