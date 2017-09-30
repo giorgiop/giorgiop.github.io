@@ -74,7 +74,6 @@ patterns in your data, even when the objective is building complex visual featur
 See also **[[Bojanowski et al. arXiv17]](https://arxiv.org/abs/1707.05776)**.
 
 
-
 <br>
 **Discovering causal signals in images [[Lopez-Paz et al. CVPR17]](https://arxiv.org/abs/1605.08179)** I found out about the next from a provocative and inspiring talk by Léon Bottou titled [Looking for the missing signal](https://www.youtube.com/watch?v=DfJeaa--xO0&t=12s) (yes, I stole the title from there). The second half of it is about their  [WGAN](https://arxiv.org/abs/1701.07875); the relevant bit here is about causality.
 But before talking about it, let's step back for a minute to see how causality may

@@ -1,6 +1,5 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -10,7 +9,6 @@ title:            giorgio patrini
 tagline:          'my personal webpage'
 url:              http://giorgiopatrini.org
 baseurl:          http://giorgiopatrini.org/
-
 
 author:
   name:           'Giorgio Patrini'
@@ -43,6 +41,8 @@ scholar:
 
 kramdown:
   input: GFM
+  syntax_highlighter: rouge
+fenced_code_blocks: true
 
 analytics :
   provider : google
