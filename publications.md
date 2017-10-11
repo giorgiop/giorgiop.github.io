@@ -90,6 +90,7 @@ title: Publications
 Reviewer for
 
 - TPAMI 2017
+- Pattern Recognition 2017
 - NIPS 2015, 2016, 2017
 - JMLR 2016
 - S+SSPR 2016
