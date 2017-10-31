@@ -27,9 +27,9 @@ I like startups. I co-founded and advice [Waynaut](http://www.waynaut.com), amon
 
 - Sep - I have published a [new post](http://giorgiopatrini.org/posts/2017/09/06/in-search-of-the-missing-signals/) on recent insights for harvesting signals from unsupervised data
 - Sep - I have moved to [UvA-Bosch DELTA Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/) (Deep Learning Technologies Amsterdam) as a postdoctoral researcher
-- Aug - We have published a follow up [blog post](https://blog.n1analytics.com/distributed-machine-learning-and-partially-homomorphic-encryption-2/) on how to use encrypted models for prediction
+- Aug - We have published a follow up [blog post](http://giorgiopatrini.org/posts/2017/08/14/distributed-machine-learning-and-partially-homomorphic-encryption-2/) on how to use encrypted models for prediction
 - Aug - Slides of our ICML17 workshop talk on entity resolution and logistic regression with encrypted data are [online]({{site.baseurl}}assets/slides/2017_ICML.pdf)
-- Jul - We published a first [blog post](https://blog.n1analytics.com/distributed-machine-learning-and-partially-homomorphic-encryption-1/) on federated machine learning and Paillier homomorphic encryption
+- Jul - We published a first [blog post](http://giorgiopatrini.org/posts/2017/07/13/distributed-machine-learning-and-partially-homomorphic-encryption-1) on federated machine learning and Paillier homomorphic encryption
 - Jun - **ICML17** paper accepted at workshop on **Private and secure machine learning**: [Privacy-preserving entity resolution and logistic regression on encrypted data]({{site.baseurl}}assets/paper/2017_ICML.pdf)
 - Jun - My [PhD thesis](https://openresearch-repository.anu.edu.au/handle/1885/117067) is now online
 - May - I am a recipient of the Young Researcher Award sponsored by **CVPR17**
