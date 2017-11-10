@@ -7,8 +7,8 @@ permalink:        pretty
 # Setup
 title:            giorgio patrini
 tagline:          'my personal webpage'
-url:              http://giorgiopatrini.org
-baseurl:          http://giorgiopatrini.org/
+#url:              http://giorgiopatrini.org
+#baseurl:          http://giorgiopatrini.org/
 
 author:
   name:           'Giorgio Patrini'
