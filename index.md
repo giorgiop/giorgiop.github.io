@@ -10,7 +10,7 @@ machine learning/deep learning.*
 
 I am a postdoctoral researcher with [Max Welling](https://staff.fnwi.uva.nl/m.welling/) at the [UvA-Bosch DELTA Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/) (Deep Learning Technologies Amsterdam), a joint effort of the University of Amsterdam and Bosch, where we work on fundamental research in deep learning and computer vision.
 
-Previously, I did research and engineering on distributed machine learning and privacy at  [N1analytics](http://www.n1analytics.com), part of [Data61 CSIRO](http://www.data61.csiro.au).
+Previously, I worked on distributed machine learning and privacy at  [N1analytics](http://www.n1analytics.com), part of [Data61 CSIRO](http://www.data61.csiro.au).
 I completed my PhD in machine learning at the
 [Australian National University](https://www.anu.edu.au) with [NICTA](https://www.nicta.com.au), advised by
 [Richard Nock](http://users.cecs.anu.edu.au/~rnock/) and
