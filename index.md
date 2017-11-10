@@ -8,7 +8,7 @@ machine learning/deep learning.*
 
 <br>
 
-I am a postdoctoral researcher with [Max Welling](https://staff.fnwi.uva.nl/m.welling/) at the [UvA-Bosch DELTA Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/) (Deep Learning Technologies Amsterdam), a joint effort of the University of Amsterdam and Bosch, where we work on fundamental research in deep learning for computer vision and automotive.
+I am a postdoctoral researcher with [Max Welling](https://staff.fnwi.uva.nl/m.welling/) at the [UvA-Bosch DELTA Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/) (Deep Learning Technologies Amsterdam), a joint effort of the University of Amsterdam and Bosch, where we work on fundamental research in deep learning for computer vision.
 
 Previously, I did research and engineering on distributed machine learning and privacy at  [N1analytics](http://www.n1analytics.com), part of [Data61 CSIRO](http://www.data61.csiro.au).
 I completed my PhD in machine learning at the
