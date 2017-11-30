@@ -15,7 +15,7 @@ author:
   email:          'g.patrini @ uva.nl'
   location:       'Amsterdam, Netherlands'
 
-gems:
+plugins:
   - jekyll/scholar
 
 # jekyll-scholar config

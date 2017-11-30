@@ -3,6 +3,12 @@ layout: page
 title: Publications
 ---
 
+### Pre-prints
+
+- Stephen Hardy, Wilko Henecka, Hamish Ivey-Law, Richard Nock, Giorgio Patrini, Guillaume Smith, Brian Thorne <br>
+Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption <br>
+[[arXiv](https://arxiv.org/abs/1711.10677)]
+
 
 ### Conferences
 

@@ -25,6 +25,7 @@ I like startups. I co-founded and advice [Waynaut](http://www.waynaut.com), amon
 ### News
 2017
 
+- Nov - New preprint: [Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption](https://arxiv.org/abs/1711.10677)
 - Sep - I have published a [new post](http://giorgiopatrini.org/posts/2017/09/06/in-search-of-the-missing-signals/) on recent insights for harvesting signals from unsupervised data
 - Sep - I have moved to [UvA-Bosch DELTA Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/) (Deep Learning Technologies Amsterdam) as a postdoctoral researcher
 - Aug - We have published a follow up [blog post](http://giorgiopatrini.org/posts/2017/08/14/distributed-machine-learning-and-partially-homomorphic-encryption-2/) on how to use encrypted models for prediction
