@@ -3,12 +3,12 @@ layout: default
 title: Home
 ---
 
-*For UvA Master students: you can drop me an e-mail if you are looking for thesis projects on
+*For UvA Master students: drop me an e-mail if you are looking for thesis projects on
 machine learning/deep learning.*
 
 <br>
 
-I am a postdoctoral researcher with [Max Welling](https://staff.fnwi.uva.nl/m.welling/) at the [UvA-Bosch DELTA Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/) (Deep Learning Technologies Amsterdam), a joint effort of the University of Amsterdam and Bosch, where we work on fundamental research in deep learning and computer vision.
+I am a postdoctoral researcher working with [Max Welling](https://staff.fnwi.uva.nl/m.welling/) at the [DELTA Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/) (Deep Learning Technologies Amsterdam), a joint effort of the University of Amsterdam and Bosch, where we focus on fundamental research in deep learning and computer vision.
 
 Previously, I worked on distributed machine learning and privacy at  [N1analytics](http://www.n1analytics.com), part of [Data61 CSIRO](http://www.data61.csiro.au).
 I completed my PhD in machine learning at the

@@ -95,12 +95,14 @@ Private federated learning on vertically partitioned data via entity resolution 
 ### Academic service
 Reviewer for
 
-- NIPS 2015, 2016, 2017
-- JMLR 2016, 2017
-- TPAMI 2017
-- Pattern Recognition 2017
-- S+SSPR 2016
-- JMLC 2016
+- ICML 18
+- CVPR 18
+- NIPS 15, 16, 17
+- JMLR 16, 17
+- TPAMI 17
+- Pattern Recognition 17
+- S+SSPR 16
+- JMLC 16
 
 Workshop co-organizer
 
