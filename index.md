@@ -26,7 +26,7 @@ I co-founded [Waynaut](http://www.waynaut.com), among the few companies
 2018
 
 - Mar - A new blog post is up: [Commoditisation of AI, digital forgery and the end of trust: how we can fix it]({{ baseurl }}/posts/2018/03/17/AI-and-digital-forgery)
-- Mar - New preprint: [Entity Resolution and Federated Learning get a Federated Resolution](https://arxiv.org/abs/1803.04035)
+- Mar - New preprint: [Entity resolution and federated learning get a federated resolution](https://arxiv.org/abs/1803.04035)
 - Jan - Now public: our startup **Waynaut has been acquired** by lastminute.com group
 
 2017
