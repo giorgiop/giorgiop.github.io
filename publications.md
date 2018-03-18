@@ -5,22 +5,26 @@ title: Publications
 
 ### Pre-prints
 
+- Richard Nock, Stephen Hardy, Wilko Henecka, Hamish Ivey-Law, Giorgio Patrini, Guillaume Smith, Brian Thorne <br>
+Entity resolution and federated learning get a federated resolution
+[[arXiv](https://arxiv.org/abs/1803.04035)]
+
 - Stephen Hardy, Wilko Henecka, Hamish Ivey-Law, Richard Nock, Giorgio Patrini, Guillaume Smith, Brian Thorne <br>
-Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption <br>
+Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption
 [[arXiv](https://arxiv.org/abs/1711.10677)]
 
 
 ### Conferences
 
 - Giorgio Patrini, Alessandro Rozza, Aditya Menon, Richard Nock and Lizhen Qu <br>
-  [Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach]({{site.baseurl}}assets/paper/2017_CVPR.pdf) <br>
+  [Making deep neural networks robust to label noise: a loss correction approach]({{site.baseurl}}assets/paper/2017_CVPR.pdf) <br>
   **CVPR 2017** (**oral**, acceptance rate 2.7%)
   [[code](https://github.com/giorgiop/loss-correction)]
   [[video](https://www.youtube.com/watch?v=RDTcV9Zx1C4)]
   [[slides]({{site.baseurl}}assets/slides/2017_CVPR.pdf)]
 
 - Boris Muzellec, Richard Nock, Giorgio Patrini and Frank Nielsen <br>
-  Tsallis Regularized Optimal Transport and Ecological Inference <br>
+  Tsallis regularized optimal transport and ecological inference <br>
   **AAAI 2017**
   [[arXiv](https://arxiv.org/abs/1609.04495)]
 
@@ -37,13 +41,13 @@ Private federated learning on vertically partitioned data via entity resolution 
   **IJCAI 2016** [[arXiv](http://arxiv.org/abs/1603.04002)]
 
 - Richard Nock, Giorgio Patrini and Arik Friedman <br>
-  [Rademacher Observations, Private Data, and Boosting]({{site.url}}/assets/paper/2015_ICML.pdf) <br>
+  [Rademacher observations, private data, and boosting]({{site.url}}/assets/paper/2015_ICML.pdf) <br>
   **ICML 2015**
   [[arXiv](http://arxiv.org/abs/1502.02322)] [[video](http://videolectures.net/icml2015_patrini_rademacher_observations/)]
   [[slides]({{site.baseurl}}assets/slides/2015_ICML.pdf)]
 
 - Giorgio Patrini, Richard Nock, Paul Rivera and Tiberio Caetano <br>
-  [(Almost) No Label No Cry]({{site.baseurl}}assets/paper/2014_NIPS.pdf) <br>
+  [(Almost) no label no cry]({{site.baseurl}}assets/paper/2014_NIPS.pdf) <br>
   **NIPS 2014** (**spotlight**, acceptance rate 3.7%)
   [[supp]({{site.baseurl}}assets/paper/2014_NIPS_supp.pdf)]
   [[code](https://github.com/giorgiop/almostnolabel)]

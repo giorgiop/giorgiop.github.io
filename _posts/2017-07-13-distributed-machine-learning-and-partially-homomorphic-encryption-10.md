@@ -10,7 +10,11 @@ tags:
   - federated learning
 ---
 
-*The post appeared originally on the [n1analytics blog](https://blog.n1analytics.com/distributed-machine-learning-and-partially-homomorphic-encryption-1/).*
+<div style="text-align: right; font-style: italic">
+The post appeared originally on the
+<a href="https://blog.n1analytics.com/distributed-machine-learning-and-partially-homomorphic-encryption-1/"> n1analytics blog
+</a>
+</div>
 
 <br>
 

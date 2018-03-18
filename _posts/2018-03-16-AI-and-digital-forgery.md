@@ -14,7 +14,6 @@ img-folder: 2018-03-17-AI-and-digital-forgery
 <div style="text-align: right">
 written with Simone Lini, Hamish Ivey-Law and
 <a href="https://mortendahl.github.io">Morten Dahl</a>.
-
 </div>
 
 <br><br>
