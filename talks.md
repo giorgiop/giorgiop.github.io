@@ -3,8 +3,13 @@ layout: page
 title: Talks
 ---
 
+2018
+
+- May 23 - Commoditization of digital forgery: consequences and countermeasures at Qualcomm, Amsterdam.
+
 2017
 
+- Dec 12 - Federated learning on vertically partitioned data via entity resolution and homomorphic encryption at University of Amsterdam, Amsterdam.
 - Sep 22 - Making deep neural networks robust to label noise: a loss correction approach at University of Amsterdam, Amsterdam.
 - Aug 11 - Privacy-preserving entity resolution and logistic regression on encrypted data at ICML, Sydney.
 [[slides]({{site.baseurl}}assets/slides/2017_ICML.pdf)]
