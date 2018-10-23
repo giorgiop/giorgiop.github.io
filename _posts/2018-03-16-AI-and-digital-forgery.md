@@ -1,6 +1,14 @@
 ---
 title: 'Commoditisation of AI, digital forgery and the end of trust: how we can fix it'
-summary: 'With some experiments on detecting face swaps by humans and the machine'
+summary: 'With some experiments on detecting face swaps by humans and the machine. Media coverage:
+         <a href="https://www.nrc.nl/nieuws/2018/09/14/zo-probeerden-we-een-overtuigende-nepvideo-te-maken-a1614749">NRC video</a> [Dutch/English],
+         <a href="https://jack-clark.net/2018/03/26/importai-87-salesforce-research-shows-the-value-of-simplicity-kindreds-repeatable-robotics-experiment-plus-think-your-ai-understands-physics-run-it-on-intphys-and-see-what-happens/">Import AI</a>,
+         <a href="https://us6.campaign-archive.com/?u=b98e2de85f03865f1d38de74f&id=5b38674622">Benedict Evans newsletter</a>,
+         <a href="https://www.theverge.com/2018/5/22/17380306/deepfake-definition-ai-manipulation-fake-news">The Verge</a>,
+         <a href="https://politica.estadao.com.br/blogs/estadao-verifica/videos-falsos-feitos-com-inteligencia-artificial-podem-ser-danosos-em-campanhas-eleitorais/">
+         O Estado de S. Paulo
+         </a> [Portuguese]
+         '
 layout: post
 date: 2018-03-17
 permalink: /posts/2018/03/17/AI-and-digital-forgery/

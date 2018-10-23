@@ -5,6 +5,10 @@ title: Publications
 
 ### Pre-prints
 
+- Giorgio Patrini, Marcello Carioni, Patrick Forré, Samarth Bhargav, Max Welling, Rianne van den Berg, Tim Genewein, Frank Nielsen <br>
+Sinkhorn autoencoders
+[[arXiv](https://arxiv.org/abs/1810.01118)]
+
 - Richard Nock, Stephen Hardy, Wilko Henecka, Hamish Ivey-Law, Giorgio Patrini, Guillaume Smith, Brian Thorne <br>
 Entity resolution and federated learning get a federated resolution
 [[arXiv](https://arxiv.org/abs/1803.04035)]
@@ -97,38 +101,10 @@ Private federated learning on vertically partitioned data via entity resolution 
   Learning with transformed data, WO 2016/061628 A1
 
 ### Academic service
-Reviewer for
-
-- ICML 18
-- CVPR 18
-- NIPS 15, 16, 17
-- JMLR 16, 17
-- TPAMI 17
-- Pattern Recognition 17
-- S+SSPR 16
-- JMLC 16
+Reviewer for ICML 18; CVPR 18, 19; NIPS 15, 16, 17; NIPS privacy workshop 19; JMLR 16, 17; TPAMI 17; 
+Pattern Recognition 17; S+SSPR 16; JMLC 16.
 
 Workshop co-organizer
 
 - [Learning and privacy with incomplete data and weak supervision](http://www.giorgiopatrini.org/nips15workshop/). <br>
   **NIPS 2015** (primary organizer)
-
-
-
-<!-- *<small>
-<a name='footnote'></a> Somehow Google Scholar is blind to citations to this paper. <br>
-Here a manually compiled list. Please let me know if you are aware of any others. <br>
-- [From Group to Individual Labels using Deep Features](http://www.datalab.uci.edu/papers/kdd2015_dimitris.pdf), KDD 2015 <br>
-- [Who Supported Obama in 2012? Ecological Inference through Distribution Regression](http://sethrf.com/files/ecological.pdf), KDD 2015 <br>
-- [Distributed Traffic Flow Prediction with Label Proportions](http://ceur-ws.org/Vol-1392/paper-05.pdf), MUD2 2015 <br>
-- [Machine Learning in Space and Time](http://sethrf.com/files/thesis.pdf), PhD Thesis <br>
-- [Inferring Latent Attributes of Twitter Users with Label Regularization](http://www2.southeastern.edu/Academics/Faculty/aculotta/), NAACL/HLT 2015 <br>
-- [Risk Minimization in the Presence of Label Noise](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai16lics.pdf), AAAI 2016 <br>
-- [Privacy-Preserving Class Ratio Estimation](http://www.kdd.org/kdd2016/papers/files/Paper_1172.pdf), KDD 2016 <br>
-- [Learning With Label Proportions via NPSVM](http://ieeexplore.ieee.org/document/7549044/), IEEE Transactions on Cybernetics 2016 <br>
-- [A Proportion Learning Algorithms with Density Peaks](http://www.sciencedirect.com/science/article/pii/S1877050916312777), Procedia Computer Science 2016 <br>
-- [Domain Adaptation for Learning from Label Proportions Using Self-Training](https://pdfs.semanticscholar.org/77a1/08f9b36ea0461457b5647a841112aeaab502.pdf), IJCAI 2016 <br>
-- [The Internet of Things: Opportunities and Challenges for Distributed Data Analysis](http://www.kdd.org/exploration_files/18-1-Article2.pdf), ACM SIGKDD Explorations Newsletter 2016 <br>
-- [beta-risk: a New Surrogate Risk for Learning from Weakly Labeled Data](https://hal.archives-ouvertes.fr/hal-01359298/document), NIPS 2016 <br>
-- [Providing Information by Resource- Constrained Data Analysis](https://pdfs.semanticscholar.org/cf3d/07eb8e511aea593f663731fe8e652abba5a9.pdf?_ga=1.212760023.275034423.1461215215), Technical report for Collaborative Research Center SFB 876 2016 <br>
-</small>* -->
