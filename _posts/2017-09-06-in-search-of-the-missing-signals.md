@@ -1,6 +1,13 @@
 ---
 title: 'In search of the missing signals'
-summary: Advances from 2017 for learning in the unsupervised way
+summary: 'Advances from 2017 for learning in the unsupervised way, with an
+          unforseen
+          <a href="https://twitter.com/ylecun/status/905876370802212865?lang=en">
+          announcing tweet
+          </a>
+          '
+
+
 layout: post
 date: 2017-09-06
 permalink: /posts/2017/09/06/in-search-of-the-missing-signals/

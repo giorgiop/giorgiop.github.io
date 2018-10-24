@@ -22,7 +22,7 @@ I co-founded [Waynaut](http://www.waynaut.com), among the few companies
 ### News
 2018
 
-- Oct - Preprint: [Sinkhorn AutoEncoders](https://arxiv.org/abs/1810.01118)
+- Oct - Preprint: [Sinkhorn autoencoders](https://arxiv.org/abs/1810.01118)
 - Sep - I was featured in [a short video story](https://www.nrc.nl/nieuws/2018/09/14/zo-probeerden-we-een-overtuigende-nepvideo-te-maken-a1614749) by NRC (Dutch newspaper, in Dutch & English) about the threat of video forgery and countermeasures
 - Mar - Blog post: [Commoditisation of AI, digital forgery and the end of trust: how we can fix it]({{ baseurl }}/posts/2018/03/17/AI-and-digital-forgery)
 - Mar - Preprint: [Entity resolution and federated learning get a federated resolution](https://arxiv.org/abs/1803.04035)

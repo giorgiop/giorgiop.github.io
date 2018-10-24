@@ -1,6 +1,7 @@
 ---
 title: 'Commoditisation of AI, digital forgery and the end of trust: how we can fix it'
-summary: 'With some experiments on detecting face swaps by humans and the machine. Media coverage:
+summary: 'With some experiments on detecting face swaps by humans and the machine. <br>
+          Media coverage:
          <a href="https://www.nrc.nl/nieuws/2018/09/14/zo-probeerden-we-een-overtuigende-nepvideo-te-maken-a1614749">NRC video</a> [Dutch/English],
          <a href="https://jack-clark.net/2018/03/26/importai-87-salesforce-research-shows-the-value-of-simplicity-kindreds-repeatable-robotics-experiment-plus-think-your-ai-understands-physics-run-it-on-intphys-and-see-what-happens/">Import AI</a>,
          <a href="https://us6.campaign-archive.com/?u=b98e2de85f03865f1d38de74f&id=5b38674622">Benedict Evans newsletter</a>,
