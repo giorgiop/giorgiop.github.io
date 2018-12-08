@@ -5,6 +5,7 @@ title: Talks
 
 2018
 
+- Oct 30 - Sinkhorn autoencoders at University of Amsterdam, Amsterdam.
 - May 23 - Commoditization of digital forgery: consequences and countermeasures at Qualcomm, Amsterdam.
 
 2017
