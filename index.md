@@ -5,9 +5,9 @@ title: Home
 
 <br>
 
-Now on a new venture: [DeepTrace](https://www.deeptracelabs.com)
+Now on a new venture: [Deeptrace](https://www.deeptracelabs.com)
 
-Previously, I was a postdoc researcher working on deep learning with [Max Welling](https://staff.fnwi.uva.nl/m.welling/) at the [DELTA Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/), University of Amsterdam. I built privacy-preserving distributed machine learning systems at [Data61 CSIRO](http://www.data61.csiro.au).
+Previously, I was a postdoc researcher working on deep learning with [Max Welling](https://staff.fnwi.uva.nl/m.welling/) at the [DELTA Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/), University of Amsterdam. I built privacy-preserving distributed machine learning systems at [Data61 CSIRO](http://www.data61.csiro.au), part of the Australian federal government.
 I defended my PhD at the Australian National University with [NICTA](https://en.wikipedia.org/wiki/NICTA), advised by
 [Richard Nock](http://users.cecs.anu.edu.au/~rnock/) and
 [Tiberio Caetano](http://www.tiberiocaetano.com). My thesis was on weakly supervised learning, learning theory, privacy and deep learning.
@@ -20,7 +20,8 @@ In 2012 co-founded [Waynaut](http://www.waynaut.com), among the few companies
 ### News
 2018
 
-- Nov - **DeepTrace opens its doors and joins [Zeroth.ai](https://www.zeroth.ai)**
+- Dec - Deeptrace is listed on the final phase of the [AI and the News Challenge](https://aiethicsinitiative.org/news/2018/12/3/meet-the-66-finalists-in-the-ai-and-the-news-open-challenge)
+- Nov - **DeepTrace opens its doors and partners with [Zeroth.ai](https://www.zeroth.ai)**
 - Oct - Preprint: [Sinkhorn autoencoders](https://arxiv.org/abs/1810.01118)
 - Sep - I was featured in [a short video story](https://www.nrc.nl/nieuws/2018/09/14/zo-probeerden-we-een-overtuigende-nepvideo-te-maken-a1614749) by NRC (Dutch newspaper, in Dutch & English) about the threat of video forgery and countermeasures
 - Mar - Blog post: [Commoditisation of AI, digital forgery and the end of trust: how we can fix it]({{ baseurl }}/posts/2018/03/17/AI-and-digital-forgery)

@@ -101,10 +101,10 @@ Private federated learning on vertically partitioned data via entity resolution 
   Learning with transformed data, WO 2016/061628 A1
 
 ### Academic service
-Reviewer for ICML 18; CVPR 18, 19; NIPS 15, 16, 17; NIPS privacy workshop 19; JMLR 16, 17; TPAMI 17; 
+Reviewer for ICML 18; CVPR 18, 19; NIPS 15, 16, 17; NIPS privacy workshop 19; JMLR 16, 17; TPAMI 17;
 Pattern Recognition 17; S+SSPR 16; JMLC 16.
 
 Workshop co-organizer
 
-- [Learning and privacy with incomplete data and weak supervision](http://www.giorgiopatrini.org/nips15workshop/). <br>
+- [Learning and privacy with incomplete data and weak supervision](https://giorgiop.github.io/nips15workshop/). <br>
   **NIPS 2015** (primary organizer)
