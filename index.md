@@ -18,6 +18,10 @@ In 2012 co-founded [Waynaut](http://www.waynaut.com), among the few companies
 *turning up the heat* ([Forbes](http://lnkd.in/d3UGMsx)) of the Italian startup scene. Waynaut was acquired by lastminute.com group in 2017.
 
 ### News
+2019
+
+- Jan - Our 2018 report on [The State of Deepfakes](https://www.deeptracelabs.com/report) is out
+
 2018
 
 - Dec - Deeptrace is listed on the final phase of the [AI and the News Challenge](https://aiethicsinitiative.org/news/2018/12/3/meet-the-66-finalists-in-the-ai-and-the-news-open-challenge)
