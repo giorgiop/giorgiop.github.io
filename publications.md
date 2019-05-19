@@ -5,13 +5,9 @@ title: Publications
 
 ### Pre-prints
 
-- Giorgio Patrini, Marcello Carioni, Patrick Forré, Samarth Bhargav, Max Welling, Rianne van den Berg, Tim Genewein, Frank Nielsen <br>
-Sinkhorn autoencoders
-[[arXiv](https://arxiv.org/abs/1810.01118)]
-
-- Richard Nock, Stephen Hardy, Wilko Henecka, Hamish Ivey-Law, Giorgio Patrini, Guillaume Smith, Brian Thorne <br>
-Entity resolution and federated learning get a federated resolution
-[[arXiv](https://arxiv.org/abs/1803.04035)]
+- Tim van Elsloo, Giorgio Patrini, Hamish Ivey-Law <br>
+  SEALion: a framework for neural network inference on encrypted data
+  [[arXiv](https://arxiv.org/abs/1904.12840)]
 
 - Stephen Hardy, Wilko Henecka, Hamish Ivey-Law, Richard Nock, Giorgio Patrini, Guillaume Smith, Brian Thorne <br>
 Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption
@@ -19,6 +15,10 @@ Private federated learning on vertically partitioned data via entity resolution 
 
 
 ### Conferences
+
+- Giorgio Patrini, Rianne van den Berg, Patrick Forré, Marcello Carioni, Samarth Bhargav, Max Welling, Tim Genewein, Frank Nielsen <br>
+  [Sinkhorn autoencoders](https://arxiv.org/abs/1810.01118) <br>
+  **UAI 2019**
 
 - Giorgio Patrini, Alessandro Rozza, Aditya Menon, Richard Nock and Lizhen Qu <br>
   [Making deep neural networks robust to label noise: a loss correction approach]({{site.baseurl}}assets/paper/2017_CVPR.pdf) <br>
@@ -71,6 +71,10 @@ Private federated learning on vertically partitioned data via entity resolution 
 
 ### Workshops, tech reports and notes
 
+- Koen van der Veen, Ruben Seggers, Peter Bloem, Giorgio Patrini <br>
+  [Three tools for practical differential privacy](http://www.peterbloem.nl/files/threetools/threetools.pdf) <br>
+  **NeurIPS 2018** workshop on **Privacy preserving machine learning**
+
 - Mentari Djatmiko, Stephen Hardy, Wilko Henecka, Hamish Ivey-Law,
   Maximilian Ott, Giorgio Patrini, Guillaume Smith, Brian Thorne and Dongyao Wu <br>
   [Privacy-preserving entity resolution and logistic regression on encrypted data]({{site.baseurl}}assets/paper/2017_ICML.pdf) <br>
@@ -104,7 +108,10 @@ Private federated learning on vertically partitioned data via entity resolution 
 Reviewer for ICML 18; CVPR 18, 19; NIPS 15, 16, 17; NIPS privacy workshop 19; JMLR 16, 17; TPAMI 17;
 Pattern Recognition 17; S+SSPR 16; JMLC 16.
 
-Workshop co-organizer
+Workshop co-organizer:
 
-- [Learning and privacy with incomplete data and weak supervision](https://giorgiop.github.io/nips15workshop/). <br>
+- [Synthetic realities: deep learning for detecting audiovisual fakes](https://sites.google.com/view/audiovisualfakes-icml2019) <br>
+  **ICML 2019**
+
+- [Learning and privacy with incomplete data and weak supervision](https://giorgiop.github.io/nips15workshop/) <br>
   **NIPS 2015** (primary organizer)

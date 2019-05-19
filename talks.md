@@ -3,6 +3,16 @@ layout: page
 title: Talks
 ---
 
+2019
+
+[//]: # (- Sep 11 - Trust in time of fakes at [DMEXCO](https://dmexco.com), Cologne.)
+[//]: # (- Aug 26 - at The Conference, Malmö.)
+
+- Jun 19 - Betaworks' demo day, New York City.
+- Jun 11 - Deepfakes and disinformation at [CogX](https://cogx.co), London.
+- Mar 18 - Zeroth's [demo day](https://medium.com/@tak_lo/how-we-built-asias-largest-demo-day-in-japan-fe8736b93a71), Tokyo.
+- Feb 5 - Zeroth's [demo day](https://medium.com/@tak_lo/how-zeroth-built-the-best-demo-day-in-hong-kong-f572c4f716ca), Hong Kong.
+
 2018
 
 - Oct 30 - Sinkhorn autoencoders at University of Amsterdam, Amsterdam.
