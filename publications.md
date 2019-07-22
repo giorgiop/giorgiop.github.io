@@ -17,8 +17,9 @@ Private federated learning on vertically partitioned data via entity resolution 
 ### Conferences
 
 - Giorgio Patrini, Rianne van den Berg, Patrick Forré, Marcello Carioni, Samarth Bhargav, Max Welling, Tim Genewein, Frank Nielsen <br>
-  [Sinkhorn autoencoders](https://arxiv.org/abs/1810.01118) <br>
-  **UAI 2019**
+  Sinkhorn autoencoders <br>
+  **UAI 2019** (**oral**, acceptance rate 7.3%)
+  [[arXiv](https://arxiv.org/abs/1810.01118)]
 
 - Giorgio Patrini, Alessandro Rozza, Aditya Menon, Richard Nock and Lizhen Qu <br>
   [Making deep neural networks robust to label noise: a loss correction approach]({{site.baseurl}}assets/paper/2017_CVPR.pdf) <br>
