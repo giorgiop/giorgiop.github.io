@@ -12,7 +12,7 @@ baseurl:          https://giorgiop.github.io/
 
 author:
   name:           'Giorgio Patrini'
-  email:          'g.patrini @ deeptracelabs.com'
+  email:          ''
   location:       'Amsterdam, Netherlands'
 
 plugins:
