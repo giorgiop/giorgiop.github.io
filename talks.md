@@ -1,17 +1,24 @@
 ---
 layout: page
-title: Talks
+title: Speaking
 ---
+
+2020
+- Jan 19 - Hunting deepfakes at [DLD](https://dld-conference.com/), Munich [[video](https://www.youtube.com/watch?v=ZHwPmx4ZrHI)]
+- Jan 14 - Deepfakes: commodification, consequences and countermeasures at McKinsey & Company, New York City.
 
 2019
 
-[//]: # (- Sep 11 - Trust in time of fakes at [DMEXCO](https://dmexco.com), Cologne.)
-[//]: # (- Aug 26 - at The Conference, Malmö.)
-
-- Jun 19 - Betaworks' demo day, New York City.
-- Jun 11 - Deepfakes and disinformation at [CogX](https://cogx.co), London.
-- Mar 18 - Zeroth's [demo day](https://medium.com/@tak_lo/how-we-built-asias-largest-demo-day-in-japan-fe8736b93a71), Tokyo.
-- Feb 5 - Zeroth's [demo day](https://medium.com/@tak_lo/how-zeroth-built-the-best-demo-day-in-hong-kong-f572c4f716ca), Hong Kong.
+- Dec 14 - Deepfakes: commodification, consequences and countermeasures at [NeurIPS19's workshop on machine learning for creativity and design](https://neurips2019creativity.github.io/), Vancouver. [[video](https://slideslive.com/38923633/deepfakes-commodification-consequences-and-countermeasures)]
+- Nov 19 - The state of deepfakes 2019 at the [Global Center for Security Policy](https://www.gcsp.ch/), Geneva.
+- Nov 19 - The state of deepfakes 2019 at the United Nations, Geneva.
+- OCt 19 - Deepfakes: commodification, consequences and countermeasures at the [Global Forum on AI for humanity](https://gfaih.org/), Paris.
+- Sep 11 - Trust in time of fakes at [DMEXCO](https://dmexco.com), Cologne. [[video](https://www.youtube.com/watch?v=IYm6ki1kzSM)]
+- Aug 26 - Deepfakes, not based on a true story at [The Conference](https://2019.theconference.se/), Malmö. [[video](https://www.youtube.com/watch?v=EU3MvSSF5oo)]
+- Jun 19 - Betaworks [demo day](https://render.betaworks.com/synthetic-camp-is-real-54d8ef4be370), New York City.
+- Jun 11 - Deepfakes and disinformation at [CogX](https://cogx.co), London. [[video](https://www.youtube.com/watch?v=02RivHFBjR8)]
+- Mar 18 - Zeroth [demo day](https://medium.com/@tak_lo/how-we-built-asias-largest-demo-day-in-japan-fe8736b93a71), Tokyo.
+- Feb 5 - Zeroth [demo day](https://medium.com/@tak_lo/how-zeroth-built-the-best-demo-day-in-hong-kong-f572c4f716ca), Hong Kong.
 
 2018
 
@@ -50,7 +57,7 @@ title: Talks
 
 2014
 
-- Dec 12 - (Almost) no label no cry at NIPS, Montreal. *Spotlight*.
+- Dec 12 - (Almost) no label no cry at NIPS, Montreal.
 [[slides]({{site.baseurl}}assets/slides/2014_NIPS.pdf)]
 - Aug 28 - Internship final at Commonwealth Bank of Australia, Sydney.
 - Jul 10 - (Almost) no label no cry at NICTA, Sydney.
