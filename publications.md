@@ -3,15 +3,13 @@ layout: page
 title: Publications
 ---
 
-### Pre-prints
+### Deeptrace's reports
 
-- Tim van Elsloo, Giorgio Patrini, Hamish Ivey-Law <br>
-  SEALion: a framework for neural network inference on encrypted data
-  [[arXiv](https://arxiv.org/abs/1904.12840)]
+- Henry Ajder, Giorgio Patrini, Francesco Cavalli, Laurence Cullen <br>
+  [The State Of Deepfakes, 2019: Landscape, Threats and Impact](https://deeptracelabs.com/resources/) <br>
 
-- Stephen Hardy, Wilko Henecka, Hamish Ivey-Law, Richard Nock, Giorgio Patrini, Guillaume Smith, Brian Thorne <br>
-Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption
-[[arXiv](https://arxiv.org/abs/1711.10677)]
+- Giorgio Patrini, Francesco Cavalli <br>
+  The State of Deepfakes, 2018: Reality Under Attack
 
 
 ### Conferences
@@ -85,6 +83,17 @@ Private federated learning on vertically partitioned data via entity resolution 
 - Giorgio Patrini, Frank Nielsen and Richard Nock <br>
   ￼[Bridging weak supervision and privacy aware learning via sufficient statistics]({{site.baseurl}}assets/paper/2015_NIPS.pdf) <br>
   **NIPS 2015** workshop on **Learning and privacy with incomplete data and weak supervision**
+
+
+### Pre-prints
+
+  - Tim van Elsloo, Giorgio Patrini, Hamish Ivey-Law <br>
+    SEALion: a framework for neural network inference on encrypted data
+    [[arXiv](https://arxiv.org/abs/1904.12840)]
+
+  - Stephen Hardy, Wilko Henecka, Hamish Ivey-Law, Richard Nock, Giorgio Patrini, Guillaume Smith, Brian Thorne <br>
+  Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption
+  [[arXiv](https://arxiv.org/abs/1711.10677)]
 
 
 ### Thesis

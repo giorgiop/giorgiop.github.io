@@ -4,7 +4,7 @@ title: Speaking
 ---
 
 2020
-- Jan 19 - Hunting deepfakes at [DLD](https://dld-conference.com/), Munich [[video](https://www.youtube.com/watch?v=ZHwPmx4ZrHI)]
+- Jan 19 - Hunting deepfakes at [DLD](https://dld-conference.com/), Munich. [[video](https://www.youtube.com/watch?v=ZHwPmx4ZrHI)]
 - Jan 14 - Deepfakes: commodification, consequences and countermeasures at McKinsey & Company, New York City.
 
 2019
