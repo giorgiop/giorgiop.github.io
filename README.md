@@ -1,8 +1,4 @@
-Made with [Jekyll](http://jekyllrb.com) and [Hyde](https://github.com/poole/hyde).
-
----
-
-Make sure Ruby is installed on your machine. Then install:
+Make sure Ruby is installed on your machine. Then run:
 
 ```
 gem install bundler
