@@ -7,9 +7,7 @@ title: Home
 
 Now on a new venture: [Deeptrace](https://www.deeptracelabs.com). Featured on [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/will-deepfakes-detection-be-ready-for-2020): *Startup Deeptrace is racing to develop automated detection of fake videos and images as U.S. 2020 elections loom*.
 
-I have been included in the Defenders of Digital.
-
-https://www.youtube.com/watch?v=EBBMT_DvjqI
+[//]: <> (I have been included in the Defenders of Digital. https://www.youtube.com/watch?v=EBBMT_DvjqI)
 
 Previously, I was a postdoc researcher working on deep learning with [Max Welling](https://staff.fnwi.uva.nl/m.welling/) at the [DELTA Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/), University of Amsterdam. I built privacy-preserving distributed machine learning systems at [Data61 CSIRO](http://www.data61.csiro.au), part of the Australian federal government.
 I defended my PhD at the Australian National University with [NICTA](https://en.wikipedia.org/wiki/NICTA), advised by
