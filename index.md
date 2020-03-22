@@ -7,7 +7,7 @@ title: Home
 
 Now on a new venture: [Deeptrace](https://www.deeptracelabs.com). Featured on [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/will-deepfakes-detection-be-ready-for-2020): *Startup Deeptrace is racing to develop automated detection of fake videos and images as U.S. 2020 elections loom*.
 
-I have been included in the Defenders of Digital. 
+I have been included in the Defenders of Digital.
 
 https://www.youtube.com/watch?v=EBBMT_DvjqI
 
@@ -18,8 +18,7 @@ I defended my PhD at the Australian National University with [NICTA](https://en.
 I received my BSc and MSc from Milan Polytechnic with
 a thesis on Nash equilibrium computation with [Nicola Gatti](http://www.gametheory.polimi.it/nicola-gatti.html).
 
-In 2012 co-founded [Waynaut](http://www.waynaut.com), among the few companies
-*turning up the heat* ([Forbes](http://lnkd.in/d3UGMsx)) of the Italian startup scene. Waynaut was acquired by lastminute.com group in 2017.
+In 2012 co-founded [Waynaut](http://lnkd.in/d3UGMsx), an Internet mobility startup acquired by Lastminute.com.
 
 
 ### News
