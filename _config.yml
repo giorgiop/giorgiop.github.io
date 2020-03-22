@@ -15,9 +15,6 @@ author:
   email:          ''
   location:       'Amsterdam, Netherlands'
 
-plugins:
-  - jekyll/scholar
-
 # jekyll-scholar config
 scholar:
   style: apa

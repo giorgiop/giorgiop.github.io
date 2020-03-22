@@ -5,3 +5,8 @@ gem install bundler
 bundle config set path 'vendor/bundle'
 bundle install
 ```
+
+To run the site locally:
+```
+bundle exec jekyll serve --baseurl='/'
+```
