@@ -1,9 +1,18 @@
 ---
 title: 'Mapping the Deepfake Landscape'
-summary: 'Foreword to our The State of Deepfakes 2019 report. <br>
+summary: 'Foreword to our <a href="https://deeptracelabs.com/resources/">"The State of Deepfakes"</a> 2019 report. <br>
           Media coverage:
-         <a href="https://www.nrc.nl/nieuws/2018/09/14/zo-probeerden-we-een-overtuigende-nepvideo-te-maken-a1614749">NRC video</a> [Dutch/English],
-         </a>
+          <a href="https://edition.cnn.com/2019/10/07/tech/deepfake-videos-increase/index.html">CNN</a>,
+          <a href="https://www.bbc.com/news/technology-49961089">BBC</a>,
+          <a href="https://www.wired.co.uk/article/deepfakes-porn">Wired</a>,
+          <a href="https://www.ft.com/content/4bf4277c-f527-11e9-a79c-bc9acae3b654">Financial Times</a>,
+          <a href="https://fortune.com/2019/10/07/porn-to-scams-deepfakes-big-racket-unnerving-business-leaders-and-lawmakers/">Fortune</a>,
+          <a href="https://www.fastcompany.com/90414116/there-are-almost-15k-deepfake-videos-out-there-and-96-of-them-are-porn">Fast</a>
+          <a href="https://www.fastcompany.com/90414479/how-deepfakes-evolved-so-rapidly-in-just-a-few-years">Company</a>,
+          <a href="https://www.technologyreview.com/f/614485/deepfake-porn-deeptrace-legislation-california-election-disinformation/">MIT Tech Review</a>,
+          <a href="https://www.dw.com/en/deepfake-technology-sees-dramatic-rise/a-50718739">DW</a>,
+          <a href="https://www.vice.com/en_uk/article/7x57v9/most-deepfakes-are-porn-harassment-not-fake-news">Vice</a>
+          <a href="https://spectrum.ieee.org/tech-talk/computing/software/the-worlds-first-audit-of-deepfake-videos-and-tools-on-the-open-web">IEEE Spectrum</a>.
          '
 layout: post
 date: 2019-10-7
@@ -34,7 +43,7 @@ Our research revealed that the deepfake phenomenon is growing rapidly online, wi
 
 Another key trend we identified is the prominence of non-consensual deepfake pornography, which accounted for 96% of the total deepfake videos online. We also found that the top four websites dedicated to deepfake pornography received more than 134 million views on videos targeting hundreds of female celebrities worldwide. This significant viewership demonstrates a market for websites creating and hosting deepfake pornography, a trend that will continue to grow unless decisive action is taken.
 
-Deepfakes are also making a significant impact on the political sphere. Two landmark cases f rom Gabon and Malaysia that received minimal Western media coverage saw deepfakes linked to an alleged government cover-up and a political smear campaign. One of these cases was related to an attempted military coup, while the other continues to threaten a high- profile politician with imprisonment. Seen together, these examples are possibly the most powerful indications of how deepfakes are already destabilizing political processes. Without defensive countermeasures, the integrity of democracies around the world are at risk.
+Deepfakes are also making a significant impact on the political sphere. Two landmark cases from Gabon and Malaysia that received minimal Western media coverage saw deepfakes linked to an alleged government cover-up and a political smear campaign. One of these cases was related to an attempted military coup, while the other continues to threaten a high-profile politician with imprisonment. Seen together, these examples are possibly the most powerful indications of how deepfakes are already destabilizing political processes. Without defensive countermeasures, the integrity of democracies around the world are at risk.
 
 Outside of politics, the weaponization of deepfakes and synthetic media is influencing the cybersecurity landscape, enhancing traditional cyber threats and enabling entirely new attack vectors. Notably, 2019 saw reports of cases where synthetic voice audio and images of non-existent, synthetic people were used to enhance social engineering against businesses and governments.
 

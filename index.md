@@ -5,9 +5,11 @@ title: Home
 
 <br>
 
-Now on a new venture: [Deeptrace](https://www.deeptracelabs.com). Featured on [IEEE Spectrum](https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/will-deepfakes-detection-be-ready-for-2020): *Startup Deeptrace is racing to develop automated detection of fake videos and images as U.S. 2020 elections loom*.
+I am co-founder and CEO of [Deeptrace](https://www.deeptracelabs.com), where we develop technology for detecting and monitoring misuses of synthetic media, aka "deefpakes". We work among the canals in Amsterdam. I was featured in the series [Defenders of Digital](https://www.youtube.com/watch?v=EBBMT_DvjqI).
 
-[//]: <> (I have been included in the Defenders of Digital. https://www.youtube.com/watch?v=EBBMT_DvjqI)
+My team's work has been covered by [CNN](https://edition.cnn.com/2019/10/07/tech/deepfake-videos-increase/index.html), [BBC](https://www.bbc.com/news/technology-49961089), [The Guardian](https://www.theguardian.com/technology/2020/jan/13/what-are-deepfakes-and-how-can-you-spot-them), [Financial Times](https://www.ft.com/content/4183b400-f960-11e9-98fd-4d6c20050229), [Bloomberg](https://www.bloombergquint.com/technology/how-deepfakes-make-disinformation-more-real-than-ever-quicktake), [Fortune](https://fortune.com/2019/10/07/porn-to-scams-deepfakes-big-racket-unnerving-business-leaders-and-lawmakers/), and [Al Jazheera](https://www.aljazeera.com/programmes/listeningpost/2019/12/politics-porn-toxic-world-deepfake-191215101055666.html).
+
+
 
 Previously, I was a postdoc researcher working on deep learning with [Max Welling](https://staff.fnwi.uva.nl/m.welling/) at the [DELTA Lab](https://ivi.fnwi.uva.nl/uvaboschdeltalab/), University of Amsterdam. I built privacy-preserving distributed machine learning systems at [Data61 CSIRO](http://www.data61.csiro.au), part of the Australian federal government.
 I defended my PhD at the Australian National University with [NICTA](https://en.wikipedia.org/wiki/NICTA), advised by
