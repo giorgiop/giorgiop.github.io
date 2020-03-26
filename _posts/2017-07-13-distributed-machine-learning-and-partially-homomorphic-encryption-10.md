@@ -1,6 +1,6 @@
 ---
 title: 'Distributed machine learning and partially homomorphic encryption (part 1)'
-summary: A demonstration of using Paillier encryption for federated machine learning
+summary: A demonstration of using Paillier encryption for federated machine learning.
 layout: post
 date: 2017-07-13
 permalink: /posts/2017/07/13/distributed-machine-learning-and-partially-homomorphic-encryption-1/

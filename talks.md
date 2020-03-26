@@ -10,9 +10,9 @@ title: Speaking
 2019
 
 - Dec 14 - Deepfakes: commodification, consequences and countermeasures at [NeurIPS19's workshop on machine learning for creativity and design](https://neurips2019creativity.github.io/), Vancouver. [[video](https://slideslive.com/38923633/deepfakes-commodification-consequences-and-countermeasures)]
-- Nov 19 - The state of deepfakes 2019 at the [Global Center for Security Policy](https://www.gcsp.ch/), Geneva.
+- Nov 19 - The state of deepfakes 2019 at the [Global Center for Security Policy](https://www.gcsp.ch/events/security-and-ethical-implications-deepfakes), Geneva. [[video](https://www.youtube.com/watch?v=L0yui2pQkE8)]
 - Nov 19 - The state of deepfakes 2019 at the United Nations, Geneva.
-- OCt 19 - Deepfakes: commodification, consequences and countermeasures at the [Global Forum on AI for humanity](https://gfaih.org/), Paris.
+- OCt 19 - Deepfakes: commodification, consequences and countermeasures at the [Global forum on AI for humanity](https://gfaih.org/), Paris.
 - Sep 11 - Trust in time of fakes at [DMEXCO](https://dmexco.com), Cologne. [[video](https://www.youtube.com/watch?v=IYm6ki1kzSM)]
 - Aug 26 - Deepfakes, not based on a true story at [The Conference](https://2019.theconference.se/), Malmö. [[video](https://www.youtube.com/watch?v=EU3MvSSF5oo)]
 - Jun 19 - Betaworks [demo day](https://render.betaworks.com/synthetic-camp-is-real-54d8ef4be370), New York City.

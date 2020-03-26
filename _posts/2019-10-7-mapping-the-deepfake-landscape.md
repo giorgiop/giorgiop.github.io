@@ -1,6 +1,6 @@
 ---
-title: 'Mapping the Deepfake Landscape'
-summary: 'Foreword to our <a href="https://deeptracelabs.com/resources/">"The State of Deepfakes"</a> 2019 report. <br>
+title: 'Mapping the deepfake landscape'
+summary: 'Foreword to our <a href="https://deeptracelabs.com/resources/">"The State of Deepfakes"</a> 2019 report.
           Media coverage:
           <a href="https://edition.cnn.com/2019/10/07/tech/deepfake-videos-increase/index.html">CNN</a>,
           <a href="https://www.bbc.com/news/technology-49961089">BBC</a>,
@@ -11,7 +11,7 @@ summary: 'Foreword to our <a href="https://deeptracelabs.com/resources/">"The St
           <a href="https://www.fastcompany.com/90414479/how-deepfakes-evolved-so-rapidly-in-just-a-few-years">Company</a>,
           <a href="https://www.technologyreview.com/f/614485/deepfake-porn-deeptrace-legislation-california-election-disinformation/">MIT Tech Review</a>,
           <a href="https://www.dw.com/en/deepfake-technology-sees-dramatic-rise/a-50718739">DW</a>,
-          <a href="https://www.vice.com/en_uk/article/7x57v9/most-deepfakes-are-porn-harassment-not-fake-news">Vice</a>
+          <a href="https://www.vice.com/en_uk/article/7x57v9/most-deepfakes-are-porn-harassment-not-fake-news">Vice</a>,
           <a href="https://spectrum.ieee.org/tech-talk/computing/software/the-worlds-first-audit-of-deepfake-videos-and-tools-on-the-open-web">IEEE Spectrum</a>.
          '
 layout: post
@@ -26,9 +26,8 @@ img-folder: 2018-03-17-AI-and-digital-forgery
 
 <div style="text-align: right; font-style: italic">
 This post was published as the foreword of our
-<a href="https://deeptracelabs.com/resources/">The State of Deepfake 2019 report.
-</a><br>
-The report was written with Henry Ajder, Francesco Cavalli and Laurence Cullen.
+<a href="https://deeptracelabs.com/resources/">The State of Deepfake 2019 report
+</a>, written with Henry Ajder, Francesco Cavalli and Laurence Cullen.
 </div>
 
 <br>
