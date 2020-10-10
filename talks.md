@@ -4,6 +4,9 @@ title: Speaking
 ---
 
 2020
+- Sep 16 - Deepfakes in a connected society at SenseMakers, Amsterdam (remote).
+- Sep - Infotagion podcast by British MP Damian Collins, London (remote). [[podcast](https://infotagion.com/podcast/episode-33-nina-schick-and-giorgio-patrini/)]
+- Jun 17 - Is seeing still believing: The challenge of deepfakes at [CogX](https://cogx.co), London (remote). [[video](https://www.youtube.com/watch?v=F04bZT9HJVc&feature=youtu.be)]
 - Jan 19 - Hunting deepfakes at [DLD](https://dld-conference.com/), Munich. [[video](https://www.youtube.com/watch?v=ZHwPmx4ZrHI)]
 - Jan 14 - Deepfakes: commodification, consequences and countermeasures at McKinsey & Company, New York City.
 

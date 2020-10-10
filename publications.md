@@ -3,10 +3,10 @@ layout: page
 title: Publications
 ---
 
-### Deeptrace's reports
+### Sensity's reports
 
 - Henry Ajder, Giorgio Patrini, Francesco Cavalli, Laurence Cullen <br>
-  [The State Of Deepfakes, 2019: Landscape, Threats and Impact](https://deeptracelabs.com/resources/) <br>
+  [The State Of Deepfakes, 2019: Landscape, Threats and Impact](https://www.sensity.ai/reports/) <br>
 
 - Giorgio Patrini, Francesco Cavalli <br>
   The State of Deepfakes, 2018: Reality Under Attack
