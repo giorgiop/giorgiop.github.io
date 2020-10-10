@@ -30,4 +30,4 @@ In 2012 I co-founded [Waynaut](https://www.forbes.com/sites/alisoncoleman/2015/0
 
 2019
 - Dec - I spoke at the NeurIPS's [workshop on ML for creativity and design](https://slideslive.com/38923633/deepfakes-commodification-consequences-and-countermeasures).
-- Nov - I presented the result of our report at the United Nations and the [Global Center for Security Policy](https://www.youtube.com/watch?v=L0yui2pQkE8) in Geneva.
+- Nov - I presented our 2019 "The State of Deepfakes" at the United Nations and the [Global Center for Security Policy](https://www.youtube.com/watch?v=L0yui2pQkE8) in Geneva.
