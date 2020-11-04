@@ -4,6 +4,10 @@ title: Speaking
 ---
 
 2020
+- Nov 12 - Deepfaking evidence at Georgetown Law, Washington (remote)
+- Nov 6 - Audio and Video Forensics at INTERPOL, Singapore (remote)
+- Oct 29 - Webinar on Synthetic Media by BDMI, New York City (remote)
+- Oct 14 - AI + Reality, at the Goethe Institut, Munich (remote)
 - Sep 16 - Deepfakes in a connected society at SenseMakers, Amsterdam (remote).
 - Sep - Infotagion podcast by British MP Damian Collins, London (remote). [[podcast](https://infotagion.com/podcast/episode-33-nina-schick-and-giorgio-patrini/)]
 - Jun 17 - Is seeing still believing: The challenge of deepfakes at [CogX](https://cogx.co), London (remote). [[video](https://www.youtube.com/watch?v=F04bZT9HJVc&feature=youtu.be)]

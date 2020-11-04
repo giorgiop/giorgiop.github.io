@@ -1,6 +1,6 @@
 ---
 title: 'Mapping the deepfake landscape'
-summary: 'Foreword to our <a href="https://deeptracelabs.com/resources/">"The State of Deepfakes"</a> 2019 report.
+summary: 'Foreword to our <a href="https://sensity.ai/reports/">"The State of Deepfakes"</a> 2019 report.
           Media coverage:
           <a href="https://edition.cnn.com/2019/10/07/tech/deepfake-videos-increase/index.html">CNN</a>,
           <a href="https://www.bbc.com/news/technology-49961089">BBC</a>,
@@ -17,16 +17,11 @@ summary: 'Foreword to our <a href="https://deeptracelabs.com/resources/">"The St
 layout: post
 date: 2019-10-7
 permalink: /posts/2018/03/17/mapping-the-deepfake-landscape/
-tags:
-  - machine Learning
-  - security
-  - society
-img-folder: 2018-03-17-AI-and-digital-forgery
 ---
 
 <div style="text-align: right; font-style: italic">
 This post was published as the foreword of our
-<a href="https://deeptracelabs.com/resources/">The State of Deepfake 2019 report
+<a href="https://sensity.ai/reports/">The State of Deepfake 2019 report
 </a>, written with Henry Ajder, Francesco Cavalli and Laurence Cullen.
 </div>
 
@@ -52,6 +47,6 @@ Deepfakes are here to stay, and their impact is already being felt on a global s
 
 <i>
 For full access to the report, click
-<a href="https://deeptracelabs.com/archive/">here.
+<a href="https://www.sensity.ai/reports">here.
 </a>
 </i>

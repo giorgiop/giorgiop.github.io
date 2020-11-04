@@ -5,12 +5,17 @@ title: Publications
 
 ### Sensity's reports
 
+- Henry Ajder, Giorgio Patrini, Francesco Cavalli <br>
+  [Automating Image Abuse: Deepfakes Bots on Telegram](https://www.sensity.ai/reports/) <br>
+  Oct 2020 <br>
+
 - Henry Ajder, Giorgio Patrini, Francesco Cavalli, Laurence Cullen <br>
   [The State Of Deepfakes, 2019: Landscape, Threats and Impact](https://www.sensity.ai/reports/) <br>
+  Oct 2019 <br>
 
 - Giorgio Patrini, Francesco Cavalli <br>
-  The State of Deepfakes, 2018: Reality Under Attack
-
+  The State of Deepfakes, 2018: Reality Under Attack <br>
+  Dec 2018 <br>
 
 ### Conferences
 
