@@ -4,6 +4,7 @@ title: Speaking
 ---
 
 2020
+- Dec 11 - Deepfakes: commodification, consequences, countermeasures at ETH, Zurich (remote)
 - Nov 12 - Deepfaking evidence at Georgetown Law, Washington (remote)
 - Nov 6 - Audio and Video Forensics at INTERPOL, Singapore (remote)
 - Oct 29 - Webinar on Synthetic Media by BDMI, New York City (remote)
