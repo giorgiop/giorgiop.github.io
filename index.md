@@ -18,13 +18,11 @@ In 2012 I co-founded [Waynaut](https://www.forbes.com/sites/alisoncoleman/2015/0
 
 
 ### News
+2021
+- Apr - Talks at Ernst & Young (UK), the National Cyber Crime Conference (US), and at the School for Advanced Research (New Mexico).
 
 2020
-- Dec - Talk at ETH part of a session on AI and Cyber Influence Operations.
+- Dec - Talk at ETH Zurich part of a session on AI and Cyber Influence Operations.
 - Nov - Talks at Georgetown Law on Deepfaking evidence and at INTERPOL on Audiovisual forensics.
 - Oct - We went public with our latest investigation on deepfake bots on Telegram. [Read more here](https://sensity.ai/automating-image-abuse-deepfake-bots-on-telegram/) or on the [Washington Post](https://www.washingtonpost.com/technology/2020/10/20/deep-fake-nudes/), [BuzzFeed](https://www.buzzfeednews.com/article/janelytvynenko/telegram-deepfake-nude-women-images-bot), [Wired](https://www.wired.co.uk/article/telegram-deepfakes-deepnude-ai), [BBC](https://www.bbc.co.uk/news/technology-54584127).
 - Oct - Sensity's new Visual Threat Intelligence Platform is online, [check it out](https://platform.sensity.ai).
-- Oct - I talked at Goethe Institut's Couch Lessons on AI + Reality.
-- Sep - I gave a talk at [SenseMakers](https://www.meetup.com/nl-NL/sensemakersams/events/xgqtlrybcmbvb/) hosted by members of the Dutch Police.
-- Sep - I was guest of [Infotagion](https://infotagion.com/podcast/episode-33-nina-schick-and-giorgio-patrini/), podcast by [British MP Damian Collins](https://en.wikipedia.org/wiki/Damian_Collins).
-- Aug - Our research on reputation attacks by deepfakes was covered by [WIRED](https://www.wired.com/story/porn-sites-still-wont-take-down-non-consensual-deepfakes/).

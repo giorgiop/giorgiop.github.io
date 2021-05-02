@@ -5,6 +5,10 @@ title: Publications
 
 ### Sensity's reports
 
+- Giorgio Patrini <br>
+  [The State Of Deepfakes, 2020: Updates on Statistics and Trends](https://www.sensity.ai/reports/) <br>
+  Mar 2021 <br>
+
 - Henry Ajder, Giorgio Patrini, Francesco Cavalli <br>
   [Automating Image Abuse: Deepfakes Bots on Telegram](https://www.sensity.ai/reports/) <br>
   Oct 2020 <br>
