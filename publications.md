@@ -23,6 +23,12 @@ title: Publications
 
 ### Conferences
 
+- Richard Nock, Stephen Hardy, Wilko Henecka, Hamish Ivey-Law, Jakub Nabaglo,
+Giorgio Patrini, Guillaume Smith and Brian Thorne <br>
+ [The impact of record linkage on learning from feature partitioned data]({{site.baseurl}}assets/paper/2021_ICML.pdf) <br>
+ **ICML 2021** (spotlight)
+ [[supp]({{site.baseurl}}assets/paper/2021_ICML_supp.pdf)]
+
 - Giorgio Patrini, Rianne van den Berg, Patrick Forré, Marcello Carioni, Samarth Bhargav, Max Welling, Tim Genewein, Frank Nielsen <br>
   Sinkhorn autoencoders <br>
   **UAI 2019** (**oral**, acceptance rate 7.3%)

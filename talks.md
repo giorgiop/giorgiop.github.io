@@ -3,9 +3,9 @@ layout: page
 title: Speaking
 ---
 2021
-- Apr 29 - Practical detection of deepfake videos at the National Cyber Crime Conference, Boston (remote)
-- Apr 21 - Deepfakes: threat or opportunity? At Ernest & Young conference (remote)
-- Apr 8 - Deepfakes: commodification, consequences, countermeasures at SAR School for Advanced Research, Santa Fe (remote)
+- Apr 29 - Practical detection of deepfake videos at the National Cyber Crime Conference, Boston (remote).
+- Apr 21 - Deepfakes: threat or opportunity? At Ernst & Young conference (remote).
+- Apr 8 - Deepfakes: commodification, consequences, countermeasures at SAR School for Advanced Research, Santa Fe (remote). [[video](https://www.youtube.com/watch?v=i6vWiZSbZFw)]
 
 2020
 - Dec 11 - Deepfakes: commodification, consequences, countermeasures at ETH, Zurich (remote)
