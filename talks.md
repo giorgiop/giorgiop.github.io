@@ -4,8 +4,7 @@ title: Speaking
 ---
 2021
 - Nov 8 - Deepfake Detection at Brave New Worlds, Leiden (remote)
-- Aug 25 - Managing the Deepfake Phenomenon – Counter-Deepfake Technologies at  the UN Institute for Disarmament Research
-, Geneva (remote). [[video](https://www.youtube.com/watch?v=jcaoexTzr2A&list=PLEQ2SvONl8gxxwmw-vmLF2eBWnQtHJrd3&index=5)]
+- Aug 25 - Managing the Deepfake Phenomenon: Counter-Deepfake Technologies at the UN Institute for Disarmament Research, Geneva (remote). [[video](https://www.youtube.com/watch?v=jcaoexTzr2A&list=PLEQ2SvONl8gxxwmw-vmLF2eBWnQtHJrd3&index=5)]
 - Apr 29 - Practical detection of deepfake videos at the National Cyber Crime Conference, Boston (remote)
 - Apr 21 - Deepfakes: threat or opportunity? At Ernest & Young conference (remote)
 - Apr 8 - Deepfakes: commodification, consequences, countermeasures at SAR School for Advanced Research, Santa Fe (remote)
