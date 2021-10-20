@@ -3,9 +3,12 @@ layout: page
 title: Speaking
 ---
 2021
-- Apr 29 - Practical detection of deepfake videos at the National Cyber Crime Conference, Boston (remote).
-- Apr 21 - Deepfakes: threat or opportunity? At Ernst & Young conference (remote).
-- Apr 8 - Deepfakes: commodification, consequences, countermeasures at SAR School for Advanced Research, Santa Fe (remote). [[video](https://www.youtube.com/watch?v=i6vWiZSbZFw)]
+- Nov 8 - Deepfake Detection at Brave New Worlds, Leiden (remote)
+- Aug 25 - Managing the Deepfake Phenomenon – Counter-Deepfake Technologies at  the UN Institute for Disarmament Research
+, Geneva (remote). [[video](https://www.youtube.com/watch?v=jcaoexTzr2A&list=PLEQ2SvONl8gxxwmw-vmLF2eBWnQtHJrd3&index=5)]
+- Apr 29 - Practical detection of deepfake videos at the National Cyber Crime Conference, Boston (remote)
+- Apr 21 - Deepfakes: threat or opportunity? At Ernest & Young conference (remote)
+- Apr 8 - Deepfakes: commodification, consequences, countermeasures at SAR School for Advanced Research, Santa Fe (remote)
 
 2020
 - Dec 11 - Deepfakes: commodification, consequences, countermeasures at ETH, Zurich (remote)
@@ -13,7 +16,7 @@ title: Speaking
 - Nov 6 - Audio and Video Forensics at INTERPOL, Singapore (remote)
 - Oct 29 - Webinar on Synthetic Media by BDMI, New York City (remote)
 - Oct 14 - AI + Reality, at the Goethe Institut, Munich (remote)
-- Sep 16 - Deepfakes in a connected society at SenseMakers, Amsterdam (remote).
+- Sep 16 - Deepfakes in a connected society at SenseMakers, Amsterdam (remote)
 - Sep - Infotagion podcast by British MP Damian Collins, London (remote). [[podcast](https://infotagion.com/podcast/episode-33-nina-schick-and-giorgio-patrini/)]
 - Jun 17 - Is seeing still believing: The challenge of deepfakes at [CogX](https://cogx.co), London (remote). [[video](https://www.youtube.com/watch?v=F04bZT9HJVc&feature=youtu.be)]
 - Jan 19 - Hunting deepfakes at [DLD](https://dld-conference.com/), Munich. [[video](https://www.youtube.com/watch?v=ZHwPmx4ZrHI)]

@@ -19,7 +19,8 @@ In 2012 I co-founded [Waynaut](https://www.forbes.com/sites/alisoncoleman/2015/0
 
 ### News
 2021
-- Apr - Talks at Ernst & Young (UK), the National Cyber Crime Conference (US), and at the School for Advanced Research, New Mexico (US).
+- Aug - Talk at the UN Institute for Disarmament Research
+- Apr - Talks at Ernst & Young (UK), the National Cyber Crime Conference (US), and at the School for Advanced Research (New Mexico).
 
 2020
 - Dec - Talk at ETH Zurich part of a session on AI and Cyber Influence Operations.
